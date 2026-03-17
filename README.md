@@ -42,7 +42,7 @@
 </div>
 
 <br/><br/><br/>
-<div></div>
+<div border="1px></div>
 
 <h2 align="left">Featured Projects</h2>
 
