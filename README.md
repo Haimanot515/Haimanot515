@@ -1,29 +1,30 @@
-<table>
-  <tr>
-    <td width="65%" valign="top" align="left">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-# Hello, I'm Haimanot Beka 
+  <!-- LEFT TEXT -->
+  <div style="flex: 2; min-width: 300px;">
+    # Hello, I'm Haimanot Beka 
 
-<strong>Full Stack Developer | 3rd Year Software Engineering Student @ AAU</strong>
+    <strong>Full Stack Developer | 3rd Year Software Engineering Student @ AAU</strong>
 
-<br><br>
+    <br><br>
 
-I build practical, scalable, and user-focused web applications that are designed to solve real-world problems with efficiency, performance, and reliability in mind. I’m passionate about transforming ideas into functional digital products that not only work seamlessly but also provide meaningful value to users. My approach to development is centered around writing clean, maintainable code, following modern architectural principles, and creating applications that are both robust and easy to scale as requirements grow.
+    I build practical, scalable, and user-focused web applications that are designed to solve real-world problems with efficiency, performance, and reliability in mind. I’m passionate about transforming ideas into functional digital products that not only work seamlessly but also provide meaningful value to users. My approach to development is centered around writing clean, maintainable code, following modern architectural principles, and creating applications that are both robust and easy to scale as requirements grow.
 
-I thrive on solving real-world challenges through thoughtful problem-solving, logical thinking, and a strong focus on quality software engineering practices. Whether it’s building responsive front-end interfaces, designing efficient back-end systems, or integrating full-stack solutions, I enjoy every part of the development process. I believe that great applications are built through a balance of performance, usability, scalability, and clean system design.
+    I thrive on solving real-world challenges through thoughtful problem-solving, logical thinking, and a strong focus on quality software engineering practices. Whether it’s building responsive front-end interfaces, designing efficient back-end systems, or integrating full-stack solutions, I enjoy every part of the development process. I believe that great applications are built through a balance of performance, usability, scalability, and clean system design.
 
-Currently, I’m specializing in the MERN stack, continuously strengthening my skills in MongoDB, Express.js, React, and Node.js while also exploring modern tools, frameworks, and best practices that enhance development workflows and application performance. I’m especially interested in creating high-performance digital experiences that feel intuitive, fast, and engaging, while continuously learning and improving as a developer with every project I build.
+    Currently, I’m specializing in the MERN stack, continuously strengthening my skills in MongoDB, Express.js, React, and Node.js while also exploring modern tools, frameworks, and best practices that enhance development workflows and application performance. I’m especially interested in creating high-performance digital experiences that feel intuitive, fast, and engaging, while continuously learning and improving as a developer with every project I build.
+  </div>
 
-    </td>
-    <td width="35%" valign="top" align="right">
-      <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1772087655/home_hero/fl68t8mbmg2io6qbux5g.jpg" 
-           alt="Haimanot Beka" 
-           width="300" 
-           height="400" 
-           style="border-radius: 50%; border: 4px solid #61DAFB; box-shadow: 0px 4px 20px rgba(0,0,0,0.2);" />
-    </td>
-  </tr>
-</table>
+  <!-- RIGHT PHOTO -->
+  <div style="flex: 1; min-width: 200px;">
+    <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1772087655/home_hero/fl68t8mbmg2io6qbux5g.jpg" 
+         alt="Haimanot Beka" 
+         width="300" 
+         height="400" 
+         style="border-radius: 50%; border: 4px solid #61DAFB;" />
+  </div>
+
+</div>
 
 <br><br>
 
