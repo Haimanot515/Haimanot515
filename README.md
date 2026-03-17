@@ -62,15 +62,6 @@ A professional photography house platform featuring dynamic media galleries.
 
 🔗 **[Live Demo](https://addis-photo-an-media-agency-demo2-hcr1.onrender.com)**
 
-### Addis Photo & Media Agency
-
-<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770189399/projects/fsdpnb2ocar9lxudruvr.png" width="100%" style="border-radius:10px;" />
-
-A professional photography house platform featuring dynamic media galleries.
-
-🔗 **[Live Demo](https://addis-photo-an-media-agency-demo2-hcr1.onrender.com)**
-
-<br>
 
 ###  Vector Manufacturing and advert plc.
 
