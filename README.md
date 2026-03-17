@@ -67,7 +67,7 @@ Currently, I’m specializing in the MERN stack, continuously strengthening my s
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 My projects reflect my passion for building practical, scalable, and user-focused web applications that solve real-world problems. I enjoy creating full-stack solutions that combine clean, responsive user interfaces with efficient and reliable backend systems. Through these projects, I continuously strengthen my skills in modern web development while focusing on performance, usability, and maintainable code.
 
