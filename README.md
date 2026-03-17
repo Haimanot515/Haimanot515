@@ -1,6 +1,6 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="66%" valign="top" style="border: none; padding-right: 15px;">
+    <td width="66%" valign="top" style="border: none; padding-right: 18px;">
       <h1 style="border-bottom: none; margin-top: 0;">Hello, I'm Haimanot Beka </h1>
       <p><strong>Full Stack Developer | 3rd Year Software Engineering Student @ AAU</strong></p>
       <p>
@@ -25,7 +25,7 @@
 <br/><br/><br/>
 
 <div align="center">
-  <h2 align="center">Tech Stack</h2>
+  <h2 align="left">Tech Stack</h2>
   <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
