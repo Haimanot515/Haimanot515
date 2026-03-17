@@ -20,11 +20,11 @@ I enjoy working with **React, TypeScript, Node.js, Express.js, MongoDB, SQL, HTM
 
 📂 Projects
 
-#Project 1
-![Project 1](https://res.cloudinary.com/dq3jkpys8/image/upload/v1770189399/projects/fsdpnb2ocar9lxudruvr.png)  
-Description: Short description of your project here.  
-Link: [Project Repo](#) | [Live Demo](#)
- Project 2
+ADDIS PHOTO AND MEDIA AGENCY
+https://res.cloudinary.com/dq3jkpys8/image/upload/v1770189399/projects/fsdpnb2ocar9lxudruvr.png)  
+Description:IT is a photo house website.  
+Link: https://addis-photo-an-media-agency-demo2-hcr1.onrender.com
+ 
 ![Project 2](images/project2.png)  
 Description: Short description of your project here.  
 **Link:** [Project Repo](#) | [Live Demo](#)
