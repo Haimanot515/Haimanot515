@@ -54,7 +54,7 @@ My projects reflect my passion for building practical, scalable, and user-focuse
 
 ### Addis Photo & Media Agency
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770189399/projects/fsdpnb2ocar9lxudruvr.png" width="100%" style="border-radius:10px;" />
-A professional photography house platform featuring dynamic media galleries.
+A professional photography platform that showcases stunning visual content through dynamic and interactive media galleries. Designed for photographers and creative professionals, the platform allows users to browse, explore, and engage with high-quality images and portfolios seamlessly. It combines a clean, modern interface with responsive design, ensuring an immersive visual experience across all devices. The platform also includes organizational tools for managing projects, categories, and featured collections, making it both functional and visually captivating for clients and visitors alike.
 <br>
 🔗 **[Live Demo](https://addis-photo-an-media-agency-demo2-hcr1.onrender.com)**
 
