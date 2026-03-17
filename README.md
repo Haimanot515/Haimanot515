@@ -4,8 +4,8 @@
 
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1772087655/home_hero/fl68t8mbmg2io6qbux5g.jpg" 
      alt="Haimanot Beka" 
-     width="280" 
-     height="360" 
+     width="300" 
+     height="400" 
      style="border-radius: 50%; border: 4px solid #61DAFB; box-shadow: 0px 4px 20px rgba(0,0,0,0.2);" />
 
 <br><br>
