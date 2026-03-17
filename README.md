@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1772087655/home_hero/fl68t8mbmg2io6qbux5g.jpg" alt="Haimanot Beka" height: "100",width="350" style="border-radius:50%;">
+  <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1772087655/home_hero/fl68t8mbmg2io6qbux5g.jpg" alt="Haimanot Beka" height: "10",width="350" style="border-radius:50%;">
 </p>
 
 <h1 align="center">Hello! I'm Haimanot Beka 👋</h1>
