@@ -7,15 +7,14 @@
 </p>
 
 <h1 align="center">Hello! I'm Haimanot Beka 👋</h1>
-<p align="center">
-  I'm a 3rd-year Software Engineering student at Addis Ababa University and a passionate full-stack developer. I love building practical, scalable, and user-focused web applications that solve real-world problems.
-</p>
 
-I’m a 3rd-year Software Engineering student at Addis Ababa University and a passionate full-stack developer. I love building practical, scalable, and user-focused web applications that solve real-world problems. My goal is to continuously improve my coding skills and contribute to impactful projects using modern technologies.
+<p align="center">
+  I'm a 3rd-year Software Engineering student at Addis Ababa University and a passionate full-stack developer. I love building practical, scalable, and user-focused web applications that solve real-world problems. My goal is to continuously improve my coding skills and contribute to impactful projects using modern technologies.
+</p>
 
 I enjoy working with **React, TypeScript, Node.js, Express.js, MongoDB, SQL, HTML, CSS, Git, and GitHub**, and I’m always exploring new ways to create efficient and user-friendly applications. I thrive on learning, problem-solving, and collaborating with others to build meaningful digital experiences.
 
-
+---
 
 ## 💻 Tech Stack
 
@@ -29,6 +28,7 @@ I enjoy working with **React, TypeScript, Node.js, Express.js, MongoDB, SQL, HTM
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
 
 ## 📂 Projects
 
@@ -42,8 +42,8 @@ I enjoy working with **React, TypeScript, Node.js, Express.js, MongoDB, SQL, HTM
 **Description:** Short description of your project here.  
 **Link:** [Project Repo](#) | [Live Demo](#)
 
-### Project 2
-![Project 2](https://res.cloudinary.com/dq3jkpys8/image/upload/v1770190285/projects/onrmthycgkbhdpjlyv3c.png)  
+### Project 3
+![Project 3](https://res.cloudinary.com/dq3jkpys8/image/upload/v1770190285/projects/onrmthycgkbhdpjlyv3c.png)  
 **Description:** Short description of your project here.  
 **Link:** [Project Repo](#) | [Live Demo](#)
 
@@ -62,8 +62,7 @@ I enjoy working with **React, TypeScript, Node.js, Express.js, MongoDB, SQL, HTM
 ---
 
 ## ⚡ Fun Fact
-I love coding, learning new technologies, and building things that make people’s lives easier!
-## ⚡ Fun Fact
+
 I love coding, learning new technologies, and building things that make people’s lives easier!  
 
 Beyond just writing code, I enjoy exploring how technology can solve real-world problems and improve everyday experiences.  
