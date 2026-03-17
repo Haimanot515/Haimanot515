@@ -78,11 +78,11 @@ An industrial service ecosystem and agricultural marketplace designed to connect
 </div>
 
 <br/><br/><br/>
-
 ### Ethio Coding School
 An educational platform designed to streamline coding education in Ethiopia, offering structured paths for MERN stack and software engineering.
-
+<br/><br/>
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770190285/projects/onrmthycgkbhdpjlyv3c.png" width="100%" style="border-radius:10px;" />
+
 
 <br>
 <div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
