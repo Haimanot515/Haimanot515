@@ -1,7 +1,14 @@
 <table>
   <tr>
-    <!-- LEFT: Text -->
-    <td width="65%" valign="top" style="padding-right: 20px;">
+    <td width="35%" valign="top" align="center">
+      <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1772087655/home_hero/fl68t8mbmg2io6qbux5g.jpg" 
+           alt="Haimanot Beka" 
+           width="300" 
+           height="400" 
+           style="border-radius: 50%; border: 4px solid #61DAFB;" />
+    </td>
+
+    <td width="65%" valign="top" style="padding-left: 20px;">
 # Hello, I'm Haimanot Beka 👋
 
 <strong>Full Stack Developer | 3rd Year Software Engineering Student @ AAU</strong>
@@ -13,15 +20,6 @@ I build practical, scalable, and user-focused web applications that are designed
 I thrive on solving real-world challenges through thoughtful problem-solving, logical thinking, and a strong focus on quality software engineering practices. Whether it’s building responsive front-end interfaces, designing efficient back-end systems, or integrating full-stack solutions, I enjoy every part of the development process. I believe that great applications are built through a balance of performance, usability, scalability, and clean system design.
 
 Currently, I’m specializing in the MERN stack, continuously strengthening my skills in MongoDB, Express.js, React, and Node.js while also exploring modern tools, frameworks, and best practices that enhance development workflows and application performance. I’m especially interested in creating high-performance digital experiences that feel intuitive, fast, and engaging, while continuously learning and improving as a developer with every project I build.
-    </td>
-
-    <!-- RIGHT: Photo -->
-    <td width="35%" valign="top" align="center">
-      <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1772087655/home_hero/fl68t8mbmg2io6qbux5g.jpg" 
-           alt="Haimanot Beka" 
-           width="300" 
-           height="400" 
-           style="border-radius: 50%; border: 4px solid #61DAFB;" />
     </td>
   </tr>
 </table>
