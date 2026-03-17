@@ -1,14 +1,8 @@
-<div align="right">
+<table>
+  <tr>
+    <td width="65%" valign="top" align="left">
 
 # Hello, I'm Haimanot Beka 
-
-<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1772087655/home_hero/fl68t8mbmg2io6qbux5g.jpg" 
-     alt="Haimanot Beka" 
-     width="300" 
-     height="400" 
-     style="border-radius: 50%; border: 4px solid #61DAFB; box-shadow: 0px 4px 20px rgba(0,0,0,0.2);" />
-
-<br><br>
 
 <strong>Full Stack Developer | 3rd Year Software Engineering Student @ AAU</strong>
 
@@ -20,10 +14,18 @@ I thrive on solving real-world challenges through thoughtful problem-solving, lo
 
 Currently, I’m specializing in the MERN stack, continuously strengthening my skills in MongoDB, Express.js, React, and Node.js while also exploring modern tools, frameworks, and best practices that enhance development workflows and application performance. I’m especially interested in creating high-performance digital experiences that feel intuitive, fast, and engaging, while continuously learning and improving as a developer with every project I build.
 
+    </td>
+    <td width="35%" valign="top" align="right">
+      <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1772087655/home_hero/fl68t8mbmg2io6qbux5g.jpg" 
+           alt="Haimanot Beka" 
+           width="300" 
+           height="400" 
+           style="border-radius: 50%; border: 4px solid #61DAFB; box-shadow: 0px 4px 20px rgba(0,0,0,0.2);" />
+    </td>
+  </tr>
+</table>
+
 <br><br>
-
-
-
 
 <div align="center">
 
