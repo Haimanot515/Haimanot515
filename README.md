@@ -43,7 +43,7 @@
 
 <br/><br/><br/>
 
-<h2 align="left">Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 <p align="left">
 My projects reflect my passion for building practical, scalable, and user-focused web applications. Most of my work is centered around the MERN stack, showcasing my ability to design, develop, and improve applications from concept to deployment.
