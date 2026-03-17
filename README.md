@@ -42,22 +42,17 @@
 
 ### 📂 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📍 Addis Photo & Media Agency</h4>
-      <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770189399/projects/fsdpnb2ocar9lxudruvr.png" width="100%" style="border-radius:10px;"/>
-      <p>A professional photography house platform featuring dynamic media galleries.</p>
-      <a href="https://addis-photo-an-media-agency-demo2-hcr1.onrender.com"><b>Live Demo</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📍 Vector Advert & Manufacturing</h4>
-      <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770133302/projects/mz4zlsroinyhrqxjxm4m.png" width="100%" style="border-radius:10px;"/>
-      <p>Industrial service ecosystem featuring CNC routing and 3D printing services.</p>
-      <a href="#"><b>Coming Soon</b></a>
-    </td>
-  </tr>
-</table>
+<h4>📍 Addis Photo & Media Agency</h4>
+<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770189399/projects/fsdpnb2ocar9lxudruvr.png" width="100%" style="border-radius:10px;"/>
+<p>A professional photography house platform featuring dynamic media galleries.</p>
+<a href="https://addis-photo-an-media-agency-demo2-hcr1.onrender.com"><b>Live Demo</b></a>
+
+<br><br>
+
+<h4>📍 Vector Advert & Manufacturing</h4>
+<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770133302/projects/mz4zlsroinyhrqxjxm4m.png" width="100%" style="border-radius:10px;"/>
+<p>Industrial service ecosystem featuring CNC routing and 3D printing services.</p>
+<a href="#"><b>Coming Soon</b></a>
 
 ---
 
