@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_PHOTO_URL_HERE" alt="Haimanot Beka" width="150" style="border-radius:50%;">
+  <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1772087655/home_hero/fl68t8mbmg2io6qbux5g.jpg" alt="Haimanot Beka" width="150" style="border-radius:50%;">
 </p>
 
 <h1 align="center">Hello! I'm Haimanot Beka 👋</h1>
