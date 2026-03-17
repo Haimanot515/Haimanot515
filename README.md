@@ -118,17 +118,18 @@ An innovative educational platform dedicated to coding and software development 
     <a href="https://www.linkedin.com/in/haimanot-beka/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-  </p>
-
-  <p align="center">
-    <a href="https://x.com/haimanot_beka">X / Twitter</a> • 
-    <a href="https://www.youtube.com/@haimanotbeka">YouTube</a> • 
-    <a href="https://my-portfolio-l9o0.onrender.com">Portfolio</a>
+    <a href="https://x.com/haimanot_beka" target="_blank">
+      <img src="https://img.shields.io/badge/X_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://www.youtube.com/@haimanotbeka" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    </a>
+    <a href="https://my-portfolio-l9o0.onrender.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=web&logoColor=white" />
+    </a>
   </p>
 </div>
 
 <br/><br/><br/>
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=haimanotbeka&color=blueviolet" alt="Views" />
-</div>
+
