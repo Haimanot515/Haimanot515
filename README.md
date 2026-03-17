@@ -80,7 +80,7 @@ Industrial service ecosystem featuring CNC routing and 3D printing services.
 
 ###  Ethio Coding School
 
-<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770190285/projects/onrmthycgkbhdpjlyv3c.png;" />
+<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770190285/projects/onrmthycgkbhdpjlyv3c.png" />
 
 A professional photography house platform featuring dynamic media galleries.
 
