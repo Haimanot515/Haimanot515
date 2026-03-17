@@ -63,9 +63,9 @@ A professional photography house platform featuring dynamic media galleries.
 🔗 **[Live Demo](https://addis-photo-an-media-agency-demo2-hcr1.onrender.com)**
 
 
-###  Vector Manufacturing and advert plc.
+### Fasika Farmers Connect
 
-<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770133302/projects/mz4zlsroinyhrqxjxm4m.png" width="100%" style="border-radius:10px;" />
+<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770186676/projects/mukxuhhhd91xpzp16sel.png" width="100%" style="border-radius:10px;" />
 
 Industrial service ecosystem featuring CNC routing and 3D printing services.
 
