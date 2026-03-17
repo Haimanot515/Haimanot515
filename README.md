@@ -1,8 +1,8 @@
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
-  <!-- LEFT TEXT -->
+  <!-- LEFT: Text -->
   <div style="flex: 2; min-width: 300px;">
-    # Hello, I'm Haimanot Beka 
+    <h1>Hello, I'm Haimanot Beka 👋</h1>
 
     <strong>Full Stack Developer | 3rd Year Software Engineering Student @ AAU</strong>
 
@@ -15,8 +15,8 @@
     Currently, I’m specializing in the MERN stack, continuously strengthening my skills in MongoDB, Express.js, React, and Node.js while also exploring modern tools, frameworks, and best practices that enhance development workflows and application performance. I’m especially interested in creating high-performance digital experiences that feel intuitive, fast, and engaging, while continuously learning and improving as a developer with every project I build.
   </div>
 
-  <!-- RIGHT PHOTO -->
-  <div style="flex: 1; min-width: 200px;">
+  <!-- RIGHT: Photo -->
+  <div style="flex: 1; min-width: 200px; text-align: right;">
     <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1772087655/home_hero/fl68t8mbmg2io6qbux5g.jpg" 
          alt="Haimanot Beka" 
          width="300" 
@@ -25,7 +25,6 @@
   </div>
 
 </div>
-
 <br><br>
 
 <div align="center">
