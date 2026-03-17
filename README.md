@@ -1,4 +1,12 @@
-# Hello! I'm Haimanot Beka 👋
+<p align="center">
+  <img src="YOUR_PHOTO_URL_HERE" alt="Haimanot Beka" width="150" style="border-radius:50%;">
+</p>
+
+<h1 align="center">Hello! I'm Haimanot Beka 👋</h1>
+
+<p align="center">
+  I'm a 3rd-year Software Engineering student at Addis Ababa University and a passionate full-stack developer. I love building practical, scalable, and user-focused web applications that solve real-world problems.
+</p>
 
 I’m a 3rd-year Software Engineering student at Addis Ababa University and a passionate full-stack developer. I love building practical, scalable, and user-focused web applications that solve real-world problems. My goal is to continuously improve my coding skills and contribute to impactful projects using modern technologies.
 
