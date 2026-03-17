@@ -48,7 +48,7 @@
 <p align="left">
 My projects reflect my passion for building practical, scalable, and user-focused web applications. Most of my work is centered around the MERN stack, showcasing my ability to design, develop, and improve applications from concept to deployment.
 </p>
-
+<br/><br/>
 ### Addis Photo & Media Agency
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770189399/projects/fsdpnb2ocar9lxudruvr.png" width="100%" style="border-radius:10px;" />
 A professional photography house platform featuring dynamic media galleries.
