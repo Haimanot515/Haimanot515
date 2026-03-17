@@ -2,7 +2,7 @@
   <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1772087655/home_hero/fl68t8mbmg2io6qbux5g.jpg" 
        alt="Haimanot Beka" 
        width="350" 
-       height="350" 
+       height="500" 
        style="border-radius:50%;">
 </p>
 
