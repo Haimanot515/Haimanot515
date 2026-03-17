@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Haimanot Beka 👋
+# Hello, I'm Haimanot Beka 
 
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1772087655/home_hero/fl68t8mbmg2io6qbux5g.jpg" 
      alt="Haimanot Beka" 
@@ -22,16 +22,25 @@ Currently, I’m specializing in the MERN stack, continuously strengthening my s
 
 <br><br>
 
-<a href="https://t.me/haimanotbeka">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="mailto:haimanotbeka@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://my-portfolio-l9o0.onrender.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
-</a>
+<h2 align="center">🌐 Connect With Me</h2>
 
+<p align="center">
+  <a href="https://t.me/haimanotbeka" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:haimanotbeka@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://my-portfolio-l9o0.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
+  </a>
+  <a href="https://github.com/haimanotbeka" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/haimanot-beka/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 </div>
 
 ---
