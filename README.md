@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
 
 # Hello, I'm Haimanot Beka 
 
