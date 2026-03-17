@@ -93,9 +93,9 @@ An educational platform designed to streamline coding education in Ethiopia, off
 
 <br/><br/><br/>
 
----
 
-<h2 align="left">⚡ Fun Fact & Philosophy</h2>
+
+<h2 align="center">⚡ Fun Fact & Philosophy</h2>
 
 - **Continuous Evolution:** I believe in turning complex ideas into simple, accessible digital solutions.  
 - **Beyond Code:** When I'm not debugging, I’m experimenting with UI/UX trends like glassmorphism and industrial minimalist design.  
