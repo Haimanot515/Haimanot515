@@ -75,7 +75,7 @@ Most of my work is centered around the MERN stack, where I build applications us
 
 From responsive front-end experiences to complete full-stack platforms, my projects highlight my commitment to writing clean code, solving real-world challenges, and building impactful digital products that deliver meaningful value to users.
 
-### 📍 Addis Photo & Media Agency
+### Addis Photo & Media Agency
 
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770189399/projects/fsdpnb2ocar9lxudruvr.png" width="100%" style="border-radius:10px;" />
 
