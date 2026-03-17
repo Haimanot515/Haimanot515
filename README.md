@@ -19,11 +19,6 @@ I enjoy working with **React, TypeScript, Node.js, Express.js, MongoDB, SQL, HTM
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-
-
-
-
-
 ## 📂 Projects
 
 ### ADDIS PHOTO AND MEDIA AGENCY
