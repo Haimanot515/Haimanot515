@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </p>
 </div>
@@ -52,7 +52,7 @@ My projects reflect my passion for building practical, scalable, and user-focuse
 <br/><br/><br/>
 
 ### Addis Photo & Media Agency
-A professional photography platform that showcases stunning visual content through dynamic and interactive media galleries. Designed for photographers and creative professionals, the platform allows users to browse, explore, and engage with high-quality images and portfolios seamlessly.
+A professional photography platform that showcases stunning visual content through dynamic media galleries. Built for photographers to manage portfolios and projects with a responsive, modern interface.
 <br/><br/>
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770189399/projects/fsdpnb2ocar9lxudruvr.png" width="100%" style="border-radius:10px;" />
 
@@ -66,7 +66,7 @@ A professional photography platform that showcases stunning visual content throu
 <br/><br/><br/>
 
 ### Fasika Farmers Connect
-An industrial service ecosystem and agricultural marketplace designed to connect local farmers directly with consumers and industrial resources.
+An innovative agricultural marketplace and industrial service ecosystem designed to connect local farmers directly with consumers and manufacturing resources.
 <br/><br/>
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770186676/projects/mukxuhhhd91xpzp16sel.png" width="100%" style="border-radius:10px;" />
 
@@ -80,7 +80,7 @@ An industrial service ecosystem and agricultural marketplace designed to connect
 <br/><br/><br/>
 
 ### Ethio Coding School
-An educational platform designed to streamline coding education in Ethiopia, offering structured paths for MERN stack and software engineering.
+A dedicated educational platform designed to empower students in Ethiopia by providing a streamlined curriculum and interactive tools for learning modern web development.
 <br/><br/>
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770190285/projects/onrmthycgkbhdpjlyv3c.png" width="100%" style="border-radius:10px;" />
 
