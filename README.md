@@ -72,7 +72,7 @@ A professional photography house platform featuring dynamic media galleries.
 
 <br>
 
-###  Vector Advert & Manufacturing
+###  Ethio Coding School
 
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770133302/projects/mz4zlsroinyhrqxjxm4m.png" width="100%" style="border-radius:10px;" />
 
