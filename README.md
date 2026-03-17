@@ -1,3 +1,34 @@
+<table border="0">
+  <tr>
+    <td width="65%" valign="top" style="border: none;">
+      <h1>Hello, I'm Haimanot Beka 👋</h1>
+      <strong>Full Stack Developer | 3rd Year Software Engineering Student @ AAU</strong>
+      <br><br>
+      <p>
+        I build practical, scalable, and user-focused web applications designed to solve real-world problems with efficiency, performance, and reliability. My approach centers on writing clean, maintainable code and following modern architectural principles.
+      </p>
+      <p>
+        Currently specializing in the <strong>MERN stack</strong> (MongoDB, Express.js, React, Node.js) while exploring <strong>Next.js</strong> and <strong>TypeScript</strong> to enhance performance and user experience.
+      </p>
+    </td>
+
+    <td width="35%" valign="top" align="center" style="border: none;">
+      <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1772087655/home_hero/fl68t8mbmg2io6qbux5g.jpg" 
+           alt="Haimanot Beka" 
+           width="300" 
+           style="border-radius: 50%; border: 4px solid #61DAFB; display: block; margin-left: auto; margin-right: auto;" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <h2>Tech Stack</h2>
+  </div>
+
+  
+
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
   
   <div style="flex: 2;">
