@@ -28,7 +28,7 @@ I enjoy working with **React, TypeScript, Node.js, Express.js, MongoDB, SQL, HTM
 **Link:** [Live Demo](https://addis-photo-an-media-agency-demo2-hcr1.onrender.com)
 
 ### Project 2
-![Project 2](images/project2.png)  
+![Project 2](https://res.cloudinary.com/dq3jkpys8/image/upload/v1770133302/projects/mz4zlsroinyhrqxjxm4m.png)  
 **Description:** Short description of your project here.  
 **Link:** [Project Repo](#) | [Live Demo](#)
 
