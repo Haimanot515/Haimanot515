@@ -79,7 +79,7 @@ An industrial service ecosystem and agricultural marketplace designed to connect
 
 <br/><br/><br/>
 ### Ethio Coding School
-An educational platform designed to streamline coding education in Ethiopia, offering structured paths for MERN stack and software engineering.
+An innovative educational platform dedicated to coding and software development training in Ethiopia. The platform aims to make learning programming accessible, interactive, and structured for students at all levels. It offers comprehensive courses, hands-on projects, and practical exercises, helping learners build real-world skills in web development, data structures, and modern technologies. Designed with a clean and user-friendly interface, the platform ensures an engaging learning experience while empowering students to launch their coding careers confidently.
 
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770190285/projects/onrmthycgkbhdpjlyv3c.png" width="100%" style="border-radius:10px;" />
 
