@@ -4,7 +4,7 @@ I’m a 3rd-year Software Engineering student at Addis Ababa University and a pa
 
 I enjoy working with **React, TypeScript, Node.js, Express.js, MongoDB, SQL, HTML, CSS, Git, and GitHub**, and I’m always exploring new ways to create efficient and user-friendly applications. I thrive on learning, problem-solving, and collaborating with others to build meaningful digital experiences.
 
----
+
 
 ## 💻 Tech Stack
 
