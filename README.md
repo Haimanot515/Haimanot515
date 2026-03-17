@@ -68,6 +68,13 @@ Currently, I’m specializing in the MERN stack, continuously strengthening my s
 ---
 
 ## 📂 Featured Projects
+## 🚀 Projects Overview
+
+My projects reflect my passion for building practical, scalable, and user-focused web applications that solve real-world problems. I enjoy creating full-stack solutions that combine clean, responsive user interfaces with efficient and reliable backend systems. Through these projects, I continuously strengthen my skills in modern web development while focusing on performance, usability, and maintainable code.
+
+Most of my work is centered around the MERN stack, where I build applications using React, Next.js, TypeScript, Node.js, Express.js, and MongoDB, while also exploring SQL-based systems and modern development tools. Each project represents a step in my growth as a developer, showcasing my ability to design, develop, and improve applications from concept to deployment.
+
+From responsive front-end experiences to complete full-stack platforms, my projects highlight my commitment to writing clean code, solving real-world challenges, and building impactful digital products that deliver meaningful value to users.
 
 ### 📍 Addis Photo & Media Agency
 
