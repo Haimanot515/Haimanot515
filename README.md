@@ -61,3 +61,13 @@ I enjoy working with **React, TypeScript, Node.js, Express.js, MongoDB, SQL, HTM
 
 ## ⚡ Fun Fact
 I love coding, learning new technologies, and building things that make people’s lives easier!
+## ⚡ Fun Fact
+I love coding, learning new technologies, and building things that make people’s lives easier!  
+
+Beyond just writing code, I enjoy exploring how technology can solve real-world problems and improve everyday experiences.  
+
+I often find myself experimenting with new frameworks, tools, and programming languages just for the thrill of learning and creating something impactful.  
+
+When I'm not coding, I like sharing knowledge with others, contributing to collaborative projects, and challenging myself with algorithmic puzzles and creative problem-solving exercises.  
+
+Ultimately, my passion lies in turning ideas into practical solutions that can make a real difference in people’s lives.
