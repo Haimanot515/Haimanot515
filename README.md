@@ -57,10 +57,10 @@ A professional photography platform that showcases stunning visual content throu
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770189399/projects/fsdpnb2ocar9lxudruvr.png" width="100%" style="border-radius:10px;" />
 
 <br>
-<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
-  <a href="https://addis-photo-an-media-agency-demo2-hcr1.onrender.com" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#61DAFB; color:white; border-radius:12px; font-weight:bold; text-decoration:none;">🔗 Live Demo</a>
-  <a href="https://github.com/haimanotbeka/addis-photo-media-agency" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:12px; font-weight:bold; text-decoration:none;">💻 GitHub</a>
-  <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:12px; font-weight:bold; text-decoration:none;">🎬 Video Demo</a>
+<div style="display: flex; justify-content: space-between; gap: 100px; flex-wrap: wrap; margin-top: 20px;">
+  <a href="https://addis-photo-an-media-agency-demo2-hcr1.onrender.com" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#61DAFB; color:white; border-radius:12px; font-weight:bold; text-decoration:none;">Live Demo</a>
+  <a href="https://github.com/haimanotbeka/addis-photo-media-agency" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:12px; font-weight:bold; text-decoration:none;"> GitHub</a>
+  <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:12px; font-weight:bold; text-decoration:none;"> Video Demo</a>
 </div>
 
 <br/><br/><br/>
@@ -71,10 +71,10 @@ An industrial service ecosystem and agricultural marketplace designed to connect
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770186676/projects/mukxuhhhd91xpzp16sel.png" width="100%" style="border-radius:10px;" />
 
 <br>
-<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
-  <a href="https://fasika-farmers-connect.onrender.com" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#61DAFB; color:white; border-radius:12px; font-weight:bold; text-decoration:none;">🔗 Live Demo</a>
-  <a href="https://github.com/haimanotbeka/fasika-farmers-connect" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:12px; font-weight:bold; text-decoration:none;">💻 GitHub</a>
-  <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:12px; font-weight:bold; text-decoration:none;">🎬 Video Demo</a>
+<div style="display: flex; justify-content: space-between; gap: 100px; flex-wrap: wrap; margin-top: 20px;">
+  <a href="https://fasika-farmers-connect.onrender.com" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#61DAFB; color:white; border-radius:12px; font-weight:bold; text-decoration:none;"> Live Demo</a>
+  <a href="https://github.com/haimanotbeka/fasika-farmers-connect" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:12px; font-weight:bold; text-decoration:none;"> GitHub</a>
+  <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:12px; font-weight:bold; text-decoration:none;">🎬Video Demo</a>
 </div>
 
 <br/><br/><br/>
@@ -85,10 +85,10 @@ An innovative educational platform dedicated to coding and software development 
 
 
 <br>
-<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
-  <a href="https://ethio-coding-school.onrender.com" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#61DAFB; color:white; border-radius:12px; font-weight:bold; text-decoration:none;">🔗 Live Demo</a>
-  <a href="https://github.com/haimanotbeka/ethio-coding-school" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:12px; font-weight:bold; text-decoration:none;">💻 GitHub</a>
-  <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:12px; font-weight:bold; text-decoration:none;">🎬 Video Demo</a>
+<div style="display: flex; justify-content: space-between; gap: 100px; flex-wrap: wrap; margin-top: 20px;">
+  <a href="https://ethio-coding-school.onrender.com" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#61DAFB; color:white; border-radius:12px; font-weight:bold; text-decoration:none;"> Live Demo</a>
+  <a href="https://github.com/haimanotbeka/ethio-coding-school" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:12px; font-weight:bold; text-decoration:none;"> GitHub</a>
+  <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:12px; font-weight:bold; text-decoration:none;">🎬Video Demo</a>
 </div>
 
 <br/><br/><br/>
