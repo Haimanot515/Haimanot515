@@ -1,28 +1,86 @@
-<table>
-  <tr>
-    <td width="35%" valign="top" align="center">
-      <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1772087655/home_hero/fl68t8mbmg2io6qbux5g.jpg" 
-           alt="Haimanot Beka" 
-           width="300" 
-           height="400" 
-           style="border-radius: 50%; border: 4px solid #61DAFB;" />
-    </td>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+  
+  <div style="flex: 2;">
+    <h1>Hello, I'm Haimanot Beka 👋</h1>
+    <strong>Full Stack Developer | 3rd Year Software Engineering Student @ AAU</strong>
+    <br><br>
+    <p>
+      I build practical, scalable, and user-focused web applications that are designed to solve real-world problems with efficiency, performance, and reliability in mind. I’m passionate about transforming ideas into functional digital products that not only work seamlessly but also provide meaningful value to users. My approach to development is centered around writing clean, maintainable code, following modern architectural principles, and creating applications that are both robust and easy to scale as requirements grow.
+    </p>
+    <p>
+      I thrive on solving real-world challenges through thoughtful problem-solving, logical thinking, and a strong focus on quality software engineering practices. Whether it’s building responsive front-end interfaces, designing efficient back-end systems, or integrating full-stack solutions, I enjoy every part of the development process.
+    </p>
+    <p>
+      Currently, I’m specializing in the MERN stack, continuously strengthening my skills in MongoDB, Express.js, React, and Node.js while also exploring modern tools, frameworks, and best practices that enhance development workflows and application performance.
+    </p>
+  </div>
 
-    <td width="65%" valign="top" style="padding-left: 20px;">
-# Hello, I'm Haimanot Beka 👋
+  <div style="flex: 1; text-align: center;">
+    <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1772087655/home_hero/fl68t8mbmg2io6qbux5g.jpg" 
+         alt="Haimanot Beka" 
+         width="300" 
+         style="border-radius: 50%; border: 4px solid #61DAFB; max-width: 100%; height: auto;" />
+  </div>
 
-<strong>Full Stack Developer | 3rd Year Software Engineering Student @ AAU</strong>
+</div>
 
 <br><br>
 
-I build practical, scalable, and user-focused web applications that are designed to solve real-world problems with efficiency, performance, and reliability in mind. I’m passionate about transforming ideas into functional digital products that not only work seamlessly but also provide meaningful value to users. My approach to development is centered around writing clean, maintainable code, following modern architectural principles, and creating applications that are both robust and easy to scale as requirements grow.
+<div align="center">
 
-I thrive on solving real-world challenges through thoughtful problem-solving, logical thinking, and a strong focus on quality software engineering practices. Whether it’s building responsive front-end interfaces, designing efficient back-end systems, or integrating full-stack solutions, I enjoy every part of the development process. I believe that great applications are built through a balance of performance, usability, scalability, and clean system design.
+<h2 align="center"> Tech Stack</h2>
 
-Currently, I’m specializing in the MERN stack, continuously strengthening my skills in MongoDB, Express.js, React, and Node.js while also exploring modern tools, frameworks, and best practices that enhance development workflows and application performance. I’m especially interested in creating high-performance digital experiences that feel intuitive, fast, and engaging, while continuously learning and improving as a developer with every project I build.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## Featured Projects
+
+My projects reflect my passion for building practical, scalable, and user-focused web applications that solve real-world problems. I enjoy creating full-stack solutions that combine clean, responsive user interfaces with efficient and reliable backend systems. 
+
+### Addis Photo & Media Agency
+<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770189399/projects/fsdpnb2ocar9lxudruvr.png" width="100%" style="border-radius:10px;" />
+🔗 **[Live Demo](https://addis-photo-an-media-agency-demo2-hcr1.onrender.com)**
+
+### Fasika Farmers Connect
+<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770186676/projects/mukxuhhhd91xpzp16sel.png" width="100%" style="border-radius:10px;" />
+
+### Ethio Coding School
+<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770190285/projects/onrmthycgkbhdpjlyv3c.png" width="100%" style="border-radius:10px;" />
+🔗 **[Live Demo](https://addis-photo-an-media-agency-demo2-hcr1.onrender.com)**
+
+## ⚡ Fun Fact & Philosophy
+- **Continuous Evolution:** I believe in turning complex ideas into simple, accessible digital solutions.  
+- **Beyond Code:** When I'm not debugging, I’m experimenting with UI/UX trends like glassmorphism and industrial minimalist design.  
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://t.me/haimanotbeka" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:haimanotbeka@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/haimanotbeka" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/haimanot-beka/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+</div>
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=haimanotbeka&color=blueviolet" alt="Views" />
+</div>
 <br><br>
 
 <div align="center">
