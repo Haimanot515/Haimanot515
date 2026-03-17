@@ -41,7 +41,7 @@
   </p>
 </div>
 
----
+<br/><br/>
 
 <h2 align="left">Featured Projects</h2>
 
