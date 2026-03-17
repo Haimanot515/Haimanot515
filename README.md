@@ -32,6 +32,11 @@ I enjoy working with **React, TypeScript, Node.js, Express.js, MongoDB, SQL, HTM
 **Description:** Short description of your project here.  
 **Link:** [Project Repo](#) | [Live Demo](#)
 
+### Project 2
+![Project 2](https://res.cloudinary.com/dq3jkpys8/image/upload/v1770190285/projects/onrmthycgkbhdpjlyv3c.png)  
+**Description:** Short description of your project here.  
+**Link:** [Project Repo](#) | [Live Demo](#)
+
 *(Add more projects as needed)*
 
 ---
