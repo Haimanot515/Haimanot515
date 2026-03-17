@@ -51,7 +51,7 @@ My projects reflect my passion for building practical, scalable, and user-focuse
 
 <br/><br/><br/>
 
-Addis Photo & Media Agency
+### Addis Photo & Media Agency
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770189399/projects/fsdpnb2ocar9lxudruvr.png" width="100%" style="border-radius:10px;" />
 A professional photography house platform featuring dynamic media galleries.
 <br>
