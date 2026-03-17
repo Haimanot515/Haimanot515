@@ -1,4 +1,4 @@
-# Hi, I'm Haimanot Beka 👋
+# HELLO, I'm Haimanot Beka 👋
 
 I’m a 3rd-year Software Engineering student at Addis Ababa University and a passionate full-stack developer. I love building practical, scalable, and user-focused web applications that solve real-world problems. My goal is to continuously improve my coding skills and contribute to impactful projects using modern technologies.
 
