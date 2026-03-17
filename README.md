@@ -22,7 +22,7 @@
   </tr>
 </table>
 
-<br>
+<br/><br/><br/>
 
 <div align="center">
   <h2 align="center">Tech Stack</h2>
@@ -41,23 +41,29 @@
   </p>
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
 <h2 align="left">Featured Projects</h2>
 
 <p align="left">
 My projects reflect my passion for building practical, scalable, and user-focused web applications. Most of my work is centered around the MERN stack, showcasing my ability to design, develop, and improve applications from concept to deployment.
 </p>
-<br/><br/>
+
+<br/><br/><br/>
+
 Addis Photo & Media Agency
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770189399/projects/fsdpnb2ocar9lxudruvr.png" width="100%" style="border-radius:10px;" />
 A professional photography house platform featuring dynamic media galleries.
 <br>
 🔗 **[Live Demo](https://addis-photo-an-media-agency-demo2-hcr1.onrender.com)**
 
+<br/><br/><br/>
+
 ### Fasika Farmers Connect
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770186676/projects/mukxuhhhd91xpzp16sel.png" width="100%" style="border-radius:10px;" />
 An industrial service ecosystem featuring agricultural marketplace integration.
+
+<br/><br/><br/>
 
 ### Ethio Coding School
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770190285/projects/onrmthycgkbhdpjlyv3c.png" width="100%" style="border-radius:10px;" />
@@ -65,7 +71,7 @@ An educational platform designed to streamline coding education in Ethiopia.
 <br>
 🔗 **[Live Demo](https://addis-photo-an-media-agency-demo2-hcr1.onrender.com)**
 
-<br>
+<br/><br/><br/>
 
 ---
 
@@ -75,7 +81,7 @@ An educational platform designed to streamline coding education in Ethiopia.
 - **Beyond Code:** When I'm not debugging, I’m experimenting with UI/UX trends like glassmorphism and industrial minimalist design.  
 - **Knowledge Sharing:** I enjoy translating technical concepts and personal growth strategies to make them more accessible.
 
-<br>
+<br/><br/><br/>
 
 <div align="center">
   <h2 align="center">🌐 Connect With Me</h2>
@@ -100,6 +106,8 @@ An educational platform designed to streamline coding education in Ethiopia.
     <a href="https://my-portfolio-l9o0.onrender.com">Portfolio</a>
   </p>
 </div>
+
+<br/><br/><br/>
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=haimanotbeka&color=blueviolet" alt="Views" />
