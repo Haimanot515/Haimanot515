@@ -4,7 +4,7 @@ I enjoy working with **React, TypeScript, Node.js, Express.js, MongoDB, SQL, HTM
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -18,29 +18,28 @@ I enjoy working with **React, TypeScript, Node.js, Express.js, MongoDB, SQL, HTM
 
 ---
 
-## 📂 Projects
+📂 Projects
 
-### Project 1
+#Project 1
 ![Project 1](images/project1.png)  
-**Description:** Short description of your project here.  
-**Link:** [Project Repo](#) | [Live Demo](#)
-
-### Project 2
+Description: Short description of your project here.  
+Link: [Project Repo](#) | [Live Demo](#)
+ Project 2
 ![Project 2](images/project2.png)  
-**Description:** Short description of your project here.  
+Description: Short description of your project here.  
 **Link:** [Project Repo](#) | [Live Demo](#)
 
 *(Add more projects as needed)*
 
 ---
 
-## 📫 Contact Me
+📫 Contact Me
 
-- **Portfolio:** [my-portfolio](https://my-portfolio-l9o0.onrender.com)  
-- **Telegram:** [t.me/haimanotbeka](https://t.me/haimanotbeka)  
-- **YouTube:** [@haimanotbeka](https://www.youtube.com/@haimanotbeka)  
-- **X / Twitter:** [@haimanot_beka](https://x.com/haimanot_beka)  
-- **Email:** haimanotbeka@gmail.com
+- Portfolio: [my-portfolio](https://my-portfolio-l9o0.onrender.com)  
+- Telegram: [t.me/haimanotbeka](https://t.me/haimanotbeka)  
+- YouTube: [@haimanotbeka](https://www.youtube.com/@haimanotbeka)  
+- X / Twitter: [@haimanot_beka](https://x.com/haimanot_beka)  
+- Email: haimanotbeka@gmail.com
 
 ---
 
