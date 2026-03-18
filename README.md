@@ -28,7 +28,7 @@ I began my software engineering journey at **Addis Ababa University**, where I b
 
 ##
 <a href="https://youtu.be/EWTrBBjJk64?si=n6dG6J62Z6PjPwoo" target="_blank">
-  <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1773873371/i1q5f5ahd4baw3yjqxwz_sfc16v.jpg" 
+  <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1773873585/ghva3qfdrlds14b6idne_btmyiy.png" 
        alt="Watch the Demo" 
        style="width: 100%; height: 450px;" />
 </a>
