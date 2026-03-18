@@ -39,20 +39,51 @@ I began my software engineering journey at **Addis Ababa University**, where I b
 ### **Backend Development Intern – Pitronn Tech Solution**  
 📍 Addis Ababa, Ethiopia | 🗓 March 2025 – Present  
 
-I am currently following a **backend-focused internship at Pitronn Tech Solution**, a leading technology company, where I am **practicing and strengthening my backend development skills**. During this internship, I am gaining hands-on experience with **server-side programming, API development, database handling, and full-stack project integration**.  
+I am currently participating in a **backend-focused internship at Pitronn Tech Solution**, a leading technology company, where I am gaining hands-on experience and strengthening my backend development skills. The internship program covers modern backend technologies, frameworks, and best practices, giving me real-world software engineering exposure.
 
-**Key Responsibilities & Learnings:**  
-- Developing and maintaining backend logic for web applications using **Node.js and Express.js**  
-- Creating and testing **REST APIs** for frontend integration  
-- Managing and organizing **databases** and performing CRUD operations  
-- Implementing real-world **Git workflows** including pull requests, merging, rebasing, and stashing  
-- Collaborating with a team to structure full-stack projects and deploy them efficiently  
-- Learning best practices for **scalable and maintainable backend systems**  
+---
 
-This experience allows me to **bridge theoretical knowledge with real-world backend development**, preparing me for professional software engineering roles.
+### **Skills & Technologies Learned**
 
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-FF6C37?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-007ACC?style=for-the-badge&logo=rest-api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testing-F7DF1E?style=for-the-badge&logo=jest&logoColor=black" />
+</p>
 
+---
 
+### **Core Internship Modules & Progress**
+
+| Module / Skill Area              | Week 1 | Week 3 | Week 7 | Week 11 | Week 15 | Week 16 (Final) |
+|---------------------------------|--------|--------|--------|---------|---------|----------------|
+| Git & Pull Request Workflow      | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
+| TypeScript Fundamentals          | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
+| NestJS Fundamentals              | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
+| Database & TypeORM               | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
+| Authentication & API Security    | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
+| Testing (unit + e2e)             | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
+| Caching & Performance            | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
+| Microservices & DevOps           | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
+
+---
+
+### **Key Responsibilities & Learnings**
+- Developed and maintained backend logic for real-world web applications  
+- Created and tested **REST APIs** integrated with frontend interfaces  
+- Managed relational databases using **TypeORM** with PostgreSQL  
+- Implemented **authentication and API security** with JWT/OAuth  
+- Wrote **unit and e2e tests** to ensure code reliability  
+- Optimized performance through **caching strategies**  
+- Learned **microservices architecture** and basic **DevOps practices**  
+- Practiced **real-world Git workflows** including branching, pull requests, rebasing, and stashing  
+
+> This internship bridges **theoretical knowledge with professional backend development**, equipping me for scalable full-stack projects and future software engineering roles.
 
 
  
