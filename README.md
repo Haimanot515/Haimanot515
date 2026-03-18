@@ -28,7 +28,12 @@ I began my software engineering journey at **Addis Ababa University**, where I b
 
 ##
 
-[![Watch the Demo](https://img.youtube.com/vi/EWTrBBjJk64/maxresdefault.jpg)](https://youtu.be/EWTrBBjJk64?si=n6dG6J62Z6PjPwoo)
+<a href="https://youtu.be/EWTrBBjJk64?si=n6dG6J62Z6PjPwoo" target="_blank">
+  <img src="https://img.youtube.com/vi/EWTrBBjJk64/maxresdefault.jpg" 
+       alt="Watch the Demo" 
+       style="height:355px;" />
+</a>
+
 
 
  
