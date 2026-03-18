@@ -37,7 +37,7 @@ I began my software engineering journey at **Addis Ababa University**, where I b
 
 ## Internship Experience
 
-### **Backend Development Intern – Pitronn Tech Solution**  
+### **Backend Development Intern – Pitron Tech Solution**  
  Addis Ababa, Ethiopia |  March 2025 – Present  
 
 I am currently participating in a **backend-focused internship at Pitronn Tech Solution**, a leading technology company, where I am gaining hands-on experience and strengthening my backend development skills. The internship program covers modern backend technologies, frameworks, and best practices, giving me real-world software engineering exposure.
