@@ -75,7 +75,7 @@ A responsive and visually appealing personal portfolio website built to showcase
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1773813385/por_nhrq6a.png" width="100%" style="border-radius:10px;" />
 
 <br>
-<div style="display: flex; gap: 40px; flex-wrap: wrap; align-items: center; margin-top: 20px;">
+<div style="display: flex; gap: 90px; flex-wrap: wrap; align-items: center; margin-top: 20px;">
   <a href="https://my-portfolio-l9o0.onrender.com" target="_blank" style="text-decoration:none;">
     <span style="background-color:#61DAFB; color:white; padding: 15px 30px; border-radius:12px; font-weight:bold; font-size:16px;">Live Demo</span>
   </a>
