@@ -33,6 +33,7 @@ I began my software engineering journey at **Addis Ababa University**, where I b
        style="width: 100%; height: 450px;" />
 </a>
 
+<br/> <br/>
 
 ## 💼 Internship Experience
 
