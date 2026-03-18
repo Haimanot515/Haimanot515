@@ -35,8 +35,6 @@ I began my software engineering journey at **Addis Ababa University**, where I b
 
 
 
-<p>Click the image above to watch a live demo of my project. 🚀</p>
-
 
 
  
