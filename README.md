@@ -75,10 +75,10 @@ A responsive and visually appealing personal portfolio website built to showcase
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1773813385/por_nhrq6a.png" width="100%" style="border-radius:10px;" />
 
 <br>
-<div style="display: flex; justify-content: space-between; gap: 40px; flex-wrap: wrap; margin-top: 20px;">
-  <a href="https://my-portfolio-l9o0.onrender.com" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#61DAFB; color:white; border-radius:12px; font-weight:bold; text-decoration:none;">Live Demo</a>
-  <a href="https://github.com/Haimanot515/My-Portfolio" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:12px; font-weight:bold; text-decoration:none;">GitHub</a>
-  <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:12px; font-weight:bold; text-decoration:none;">Video Demo</a>
+<div style="display: flex; flex-wrap: wrap; margin-top: 20px; justify-content: center;">
+  <a href="https://my-portfolio-l9o0.onrender.com" target="_blank" style="margin: 0 20px; text-align: center; padding: 15px 0; background-color:#61DAFB; color:white; border-radius:12px; font-weight:bold; text-decoration:none; min-width:120px;">Live Demo</a>
+  <a href="https://github.com/Haimanot515/My-Portfolio" target="_blank" style="margin: 0 20px; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:12px; font-weight:bold; text-decoration:none; min-width:120px;">GitHub</a>
+  <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="margin: 0 20px; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:12px; font-weight:bold; text-decoration:none; min-width:120px;">Video Demo</a>
 </div>
 <br/> <br/>
 
