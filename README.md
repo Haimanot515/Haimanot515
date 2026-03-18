@@ -75,11 +75,19 @@ A responsive and visually appealing personal portfolio website built to showcase
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1773813385/por_nhrq6a.png" width="100%" style="border-radius:10px;" />
 
 <br>
-<span style="display: inline-block; padding: 10px 25px; background-color:#61DAFB; color:white; border-radius:12px; font-weight:bold; text-align:center; margin-right: 20px;">Live Demo</span>
+<div style="display: flex; gap: 40px; flex-wrap: wrap; align-items: center; margin-top: 20px;">
+  <a href="https://my-portfolio-l9o0.onrender.com" target="_blank" style="text-decoration:none;">
+    <span style="background-color:#61DAFB; color:white; padding: 15px 30px; border-radius:12px; font-weight:bold; font-size:16px;">Live Demo</span>
+  </a>
 
-<span style="display: inline-block; padding: 10px 25px; background-color:#181717; color:white; border-radius:12px; font-weight:bold; text-align:center; margin-right: 20px;">GitHub</span>
+  <a href="https://github.com/Haimanot515/My-Portfolio" target="_blank" style="text-decoration:none;">
+    <span style="background-color:#181717; color:white; padding: 15px 30px; border-radius:12px; font-weight:bold; font-size:16px;">GitHub</span>
+  </a>
 
-<span style="display: inline-block; padding: 10px 25px; background-color:#FF0000; color:white; border-radius:12px; font-weight:bold; text-align:center;">Video Demo</span>
+  <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="text-decoration:none;">
+    <span style="background-color:#FF0000; color:white; padding: 15px 30px; border-radius:12px; font-weight:bold; font-size:16px;">Video Demo</span>
+  </a>
+</div>
 <br/> <br/>
 
 
