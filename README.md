@@ -157,15 +157,18 @@ An innovative educational platform dedicated to coding and software development 
     </a>
   </p>
 </div>
+<br/> <br/>
 
- 🌐 Explore My Work
+ <h2 align="left">🌐 Explore My Work</h2>
 
-Want to see more of my projects, skills, and full-stack development journey in detail?  
-Beyond my GitHub profile, I’ve also built a personal portfolio website that showcases my featured work, technical stack, and professional experience in a clean, modern, and interactive way.
+<p>
+  Want to see more of my projects, skills, and full-stack development journey in detail?<br/>
+  Beyond my GitHub profile, I’ve also built a personal portfolio website that showcases my featured work, technical stack, and professional experience in a clean, modern, and interactive way.
+</p>
 
 <p align="center">
   <a href="https://my-portfolio-l9o0.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Explore%20My%20Portfolio%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Portfolio%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
   </a>
 </p>
 
