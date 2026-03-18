@@ -22,6 +22,17 @@
   </tr>
 </table>
 
+## 🌐 Explore My Work
+
+Want to see more of my projects, skills, and full-stack development journey?  
+Check out my personal portfolio website where I showcase my featured work, technical stack, and professional experience in a clean and interactive way.
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
 <br/><br/><br/>
 
 <div align="center">
