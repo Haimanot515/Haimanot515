@@ -75,9 +75,11 @@ A responsive and visually appealing personal portfolio website built to showcase
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1773813385/por_nhrq6a.png" width="100%" style="border-radius:10px;" />
 
 <br>
-[Live Demo](https://my-portfolio-l9o0.onrender.com) &nbsp;&nbsp;&nbsp;&nbsp;  
-[GitHub](https://github.com/Haimanot515/My-Portfolio) &nbsp;&nbsp;&nbsp;&nbsp;  
-[Video Demo](https://www.youtube.com/@haimanotbeka)
+<span style="display: inline-block; padding: 10px 25px; background-color:#61DAFB; color:white; border-radius:12px; font-weight:bold; text-align:center; margin-right: 20px;">Live Demo</span>
+
+<span style="display: inline-block; padding: 10px 25px; background-color:#181717; color:white; border-radius:12px; font-weight:bold; text-align:center; margin-right: 20px;">GitHub</span>
+
+<span style="display: inline-block; padding: 10px 25px; background-color:#FF0000; color:white; border-radius:12px; font-weight:bold; text-align:center;">Video Demo</span>
 <br/> <br/>
 
 
