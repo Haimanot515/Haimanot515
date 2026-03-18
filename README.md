@@ -164,7 +164,7 @@ An innovative educational platform dedicated to coding and software development 
  <h2 align="center">🌐 Do you want to explore my work ,skills and background  in detail ? </h2>
 
 <p>
-  Want to see more of my projects, skills, and full-stack development journey in detail?<br/>
+  Alright! there is a way more.<br/>
   Beyond my GitHub profile, I’ve also built a personal portfolio website that showcases my featured work, technical stack, and professional experience in a clean, modern, and interactive way.
 </p>
 
