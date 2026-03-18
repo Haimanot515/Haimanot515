@@ -1,8 +1,8 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="66%" valign="top" style="border: none; padding-right: 20px;">
-      <h1 style="border-bottom: none; margin-top: 0; color: #333;">Hello! I am Haimanot Beka</h1>
-      <p style="font-size: 1.1em;"><strong>Full Stack Developer | 3rd Year Software Engineering Student @ Addis Ababa University</strong></p>
+    <td width="66%" valign="top" style="border: none; padding-right: 18px;">
+      <h1 style="border-bottom: none; margin-top: 0;">Hello! I am Haimanot Beka </h1>
+      <p><strong>Full Stack Developer | 3rd Year Software Engineering Student @ Addis Ababa University</strong></p>
       <p>
         I build practical, scalable, and user-focused web applications designed to solve real-world problems with efficiency, performance, and reliability. My approach centers on writing clean, maintainable code, following modern architectural principles, and creating applications that are both robust and easy to scale.
       </p>
@@ -22,25 +22,27 @@
   </tr>
 </table>
 
-<br/>
-
 # Addis Ababa University – Software Engineering Journey
 
 I began my software engineering journey at **Addis Ababa University**, where I built a strong foundation in programming, software development, and web technologies. During my studies, I worked on multiple projects that enhanced my skills in HTML, CSS, JavaScript, React, Node.js, and database management. These experiences allowed me to apply theoretical knowledge to real-world applications, creating functional, interactive, and visually appealing solutions. This portfolio highlights my growth as a software engineer and showcases the projects that reflect my dedication, creativity, and problem-solving abilities.
 
-<div align="center">
-  <a href="https://youtu.be/EWTrBBjJk64?si=n6dG6J62Z6PjPwoo" target="_blank">
-    <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770572694/portfolio/ghva3qfdrlds14b6idne.png" 
-         alt="Watch the Demo" 
-         style="width: 100%; max-height: 450px; border-radius: 12px; object-fit: cover;" />
-  </a>
-</div>
+##
+<a href="https://youtu.be/EWTrBBjJk64?si=n6dG6J62Z6PjPwoo" target="_blank">
+  <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770572694/portfolio/ghva3qfdrlds14b6idne.png" 
+       alt="Watch the Demo" 
+       style="width: 100%; height: 450px;" />
+</a>
 
-<br/><br/>
+<br/> <br/>
+
+
+ 
+
+<br/><br/><br/>
 
 <div align="center">
-  <h2>Tech Stack</h2>
-  <p>
+  <h2 align="center">Tech Stack</h2>
+  <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -55,68 +57,87 @@ I began my software engineering journey at **Addis Ababa University**, where I b
   </p>
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
-<h2 align="center">Featured Projects</h2>
-<p align="center" style="max-width: 800px; margin: 0 auto;">
-  My projects reflect my passion for building practical, scalable, and user-focused web applications. Most of my work is centered around the MERN stack, showcasing my ability to design, develop, and improve applications from concept to deployment.
+<h2 style="font-size:"20px" align="center">Featured Projects</h2>
+
+<p align="left">
+My projects reflect my passion for building practical, scalable, and user-focused web applications. Most of my work is centered around the MERN stack, showcasing my ability to design, develop, and improve applications from concept to deployment.
 </p>
 
-<br/><br/>
+<br/><br/><br/>
+
+
 
 <h2 align="center">Portfolio Website</h2>
-<p align="center">A responsive and visually appealing personal portfolio website built to showcase my skills, projects, and experience as a full-stack developer, with easy access to my work, tech stack, and contact information.</p>
-<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1773813385/por_nhrq6a.png" width="100%" style="border-radius:12px;" />
-<br/>
-<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
-  <a href="https://my-portfolio-l9o0.onrender.com" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#61DAFB; color:white; border-radius:12px; font-weight:bold; text-decoration:none; min-width: 150px;">Live Demo</a>
-  <a href="https://github.com/Haimanot515/My-Portfolio" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:12px; font-weight:bold; text-decoration:none; min-width: 150px;">GitHub</a>
-  <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:12px; font-weight:bold; text-decoration:none; min-width: 150px;">Video Demo</a>
-</div>
-
+A responsive and visually appealing personal portfolio website built to showcase my skills, projects, and experience as a full-stack developer, with easy access to my work, tech stack, and contact information.
 <br/><br/>
+<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1773813385/por_nhrq6a.png" width="100%" style="border-radius:10px;" />
+
+<br>
+<div style="display: flex; justify-content: space-between; gap: 100px; flex-wrap: wrap; margin-top: 20px;">
+  <a href="https://my-portfolio-l9o0.onrender.com" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#61DAFB; color:white; border-radius:12px; font-weight:bold; text-decoration:none;">Live Demo</a>
+  <a href="https://github.com/Haimanot515/My-Portfolio" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:12px; font-weight:bold; text-decoration:none;"> GitHub</a>
+  <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:12px; font-weight:bold; text-decoration:none;"> Video Demo</a>
+</div
+<br/> <br/>
+
+
+
 
 <h2 align="center">Addis Photo & Media Agency</h2>
-<p align="center">A professional photography platform that showcases stunning visual content through dynamic and interactive media galleries. Designed for photographers and creative professionals to engage with high-quality portfolios.</p>
-<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770189399/projects/fsdpnb2ocar9lxudruvr.png" width="100%" style="border-radius:12px;" />
-<br/>
-<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
-  <a href="https://addis-photo-an-media-agency-demo2.onrender.com" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#61DAFB; color:white; border-radius:12px; font-weight:bold; text-decoration:none; min-width: 150px;">Live Demo</a>
-  <a href="https://github.com/Haimanot515/Addis-Photo-an-Media-Agency-Demo2" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:12px; font-weight:bold; text-decoration:none; min-width: 150px;">GitHub</a>
-  <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:12px; font-weight:bold; text-decoration:none; min-width: 150px;">Video Demo</a>
+
+A professional photography platform that showcases stunning visual content through dynamic and interactive media galleries. Designed for photographers and creative professionals, the platform allows users to browse, explore, and engage with high-quality images and portfolios seamlessly.
+<br/><br/>
+<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770189399/projects/fsdpnb2ocar9lxudruvr.png" width="100%" style="border-radius:10px;" />
+
+<br>
+<div style="display: flex; justify-content: space-between; gap: 100px; flex-wrap: wrap; margin-top: 20px;">
+  <a href="https://addis-photo-an-media-agency-demo2.onrender.com" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#61DAFB; color:white; border-radius:12px; font-weight:bold; text-decoration:none;">Live Demo</a>
+  <a href="https://github.com/Haimanot515/Addis-Photo-an-Media-Agency-Demo2" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:12px; font-weight:bold; text-decoration:none;"> GitHub</a>
+  <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:12px; font-weight:bold; text-decoration:none;"> Video Demo</a>
 </div>
 
-<br/><br/>
+<br/><br/><br/>
+
+### 
 
 <h2 align="center">Fasika Farmers Connect</h2>
-<p align="center">An industrial service ecosystem and agricultural marketplace designed to connect local farmers directly with consumers and industrial resources.</p>
-<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770186676/projects/mukxuhhhd91xpzp16sel.png" width="100%" style="border-radius:12px;" />
-<br/>
-<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
-  <a href="https://fasika-farmers-connect-5r2h.onrender.com" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#61DAFB; color:white; border-radius:12px; font-weight:bold; text-decoration:none; min-width: 150px;">Live Demo</a>
-  <a href="https://github.com/Haimanot515/Fasika" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:12px; font-weight:bold; text-decoration:none; min-width: 150px;">GitHub</a>
-  <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:12px; font-weight:bold; text-decoration:none; min-width: 150px;">Video Demo</a>
+An industrial service ecosystem and agricultural marketplace designed to connect local farmers directly with consumers and industrial resources.
+<br/><br/>
+<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770186676/projects/mukxuhhhd91xpzp16sel.png" width="100%" style="border-radius:10px;" />
+
+<br>
+<div style="display: flex; justify-content: space-between; gap: 100px; flex-wrap: wrap; margin-top: 20px;">
+  <a href="https://fasika-farmers-connect-5r2h.onrender.com" style="flex: 1; text-align: center; padding: 15px 0; background-color:#61DAFB; color:white; border-radius:18px; font-weight:bold; text-decoration:none;"> Live Demo</a>
+  <a href="https://github.com/Haimanot515/Fasika" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:18px; font-weight:bold; text-decoration:none;"> GitHub</a>
+  <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:18px; font-weight:bold; text-decoration:none;"> Video Demo</a>
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
-<h2 align="center">Vector Manufacturing and Advertising PLC</h2>
-<p align="center">A professional business website developed to showcase company services, products, and brand identity. Includes service highlights, company information, and project showcases in a visually engaging way.</p>
-<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1773814231/vec_l8jlno.png" width="100%" style="border-radius:12px;" />
-<br/>
-<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
-  <a href="#" style="flex: 1; text-align: center; padding: 15px 0; background-color:#61DAFB; color:white; border-radius:12px; font-weight:bold; text-decoration:none; min-width: 150px;">Live Demo</a>
-  <a href="https://github.com/Haimanot515/Vector" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:12px; font-weight:bold; text-decoration:none; min-width: 150px;">GitHub</a>
-  <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:12px; font-weight:bold; text-decoration:none; min-width: 150px;">Video Demo</a>
+
+<h2 align="center">Vector Manufacturing and Advertising plc.</h2>
+A professional business website developed for Vector Manufacturing and Advertising PLC to showcase the company’s services, products, and brand identity through a modern, responsive, and user-friendly digital platform. The website is designed to strengthen the company’s online presence by presenting its manufacturing and advertising solutions in a clear and visually engaging way. It includes service highlights, company information, project showcases, and contact sections, making it easier for clients and partners to learn about the business and connect efficiently.
+<br/><br/>
+<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1773814231/vec_l8jlno.png" width="100%" style="border-radius:10px;" />
+
+<br>
+<div style="display: flex; justify-content: space-between; gap: 100px; flex-wrap: wrap; margin-top: 20px;">
+  <a href="not given" style="flex: 1; text-align: center; padding: 15px 0; background-color:#61DAFB; color:white; border-radius:18px; font-weight:bold; text-decoration:none;"> Live Demo</a>
+  <a href="https://github.com/Haimanot515/Vector" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:18px; font-weight:bold; text-decoration:none;"> GitHub</a>
+  <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:18px; font-weight:bold; text-decoration:none;"> Video Demo</a>
 </div>
-
 <br/><br/>
 
-<h2 align="center">Internship Experience</h2>
 
-### **Backend Development Intern – Pitron Tech Solution** Addis Ababa, Ethiopia | March 2025 – Present  
+<br/><br/><br/>
+<h2 align="center">Internship experience</h2>
 
-I am currently gaining hands-on experience at **Pitronn Tech Solution**, strengthening my backend development skills. The program covers modern backend technologies, frameworks, and best practices, providing real-world software engineering exposure.
+### **Backend Development Intern – Pitron Tech Solution**  
+ Addis Ababa, Ethiopia |  March 2025 – Present  
+
+I am currently participating in a **backend-focused internship at Pitronn Tech Solution**, a leading technology company, where I am gaining hands-on experience and strengthening my backend development skills. The internship program covers modern backend technologies, frameworks, and best practices, giving me real-world software engineering exposure.
 
 ---
 
@@ -137,30 +158,33 @@ I am currently gaining hands-on experience at **Pitronn Tech Solution**, strengt
 
 ### **Core Internship Modules & Progress**
 
-| Module / Skill Area | Status |
-| :--- | :---: |
-| Git & Pull Request Workflow | ✅ |
-| TypeScript Fundamentals | ✅ |
-| NestJS Fundamentals | ✅ |
-| Database & TypeORM | ✅ |
-| Authentication & API Security | ✅ |
-| Testing (unit + e2e) | ✅ |
-| Caching & Performance | ✅ |
-| Microservices & DevOps | ✅ |
+| Module / Skill Area              | Week 1 | Week 3 | Week 7 | Week 11 | Week 15 | Week 16 (Final) |
+|---------------------------------|--------|--------|--------|---------|---------|----------------|
+| Git & Pull Request Workflow      | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
+| TypeScript Fundamentals          | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
+| NestJS Fundamentals              | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
+| Database & TypeORM               | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
+| Authentication & API Security    | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
+| Testing (unit + e2e)             | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
+| Caching & Performance            | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
+| Microservices & DevOps           | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
 
 ---
 
 ### **Key Responsibilities & Learnings**
-- Developed and maintained backend logic for real-world web applications.
-- Created and tested **REST APIs** integrated with frontend interfaces.
-- Managed relational databases using **TypeORM** with PostgreSQL.
-- Implemented **authentication and API security** with JWT/OAuth.
-- Wrote **unit and e2e tests** to ensure code reliability.
-- Optimized performance through **caching strategies**.
-- Learned **microservices architecture** and basic **DevOps practices**.
-- Practiced professional **Git workflows** (branching, PRs, rebasing).
+- Developed and maintained backend logic for real-world web applications  
+- Created and tested **REST APIs** integrated with frontend interfaces  
+- Managed relational databases using **TypeORM** with PostgreSQL  
+- Implemented **authentication and API security** with JWT/OAuth  
+- Wrote **unit and e2e tests** to ensure code reliability  
+- Optimized performance through **caching strategies**  
+- Learned **microservices architecture** and basic **DevOps practices**  
+- Practiced **real-world Git workflows** including branching, pull requests, rebasing, and stashing  
 
-<br/>
+> This internship bridges **theoretical knowledge with professional backend development**, equipping me for scalable full-stack projects and future software engineering roles.
+
+
+
 
 <h2 align="center">⚡ Fun Fact & Philosophy</h2>
 
@@ -168,24 +192,40 @@ I am currently gaining hands-on experience at **Pitronn Tech Solution**, strengt
 - **Beyond Code:** When I'm not debugging, I’m experimenting with UI/UX trends like glassmorphism and industrial minimalist design.  
 - **Knowledge Sharing:** I enjoy translating technical concepts and personal growth strategies to make them more accessible.
 
-<br/><br/>
+<br/><br/><br/>
 
 <div align="center">
-  <h2>Connect With Me</h2>
-  <p>
-    <a href="https://t.me/haimanotbeka" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <a href="mailto:haimanotbeka@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/haimanotbeka" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/haimanot-beka/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://x.com/haimanot_beka" target="_blank"><img src="https://img.shields.io/badge/X_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <a href="https://www.youtube.com/@haimanotbeka" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <h2 align="center">Connect With Me</h2>
+  <p align="center">
+    <a href="https://t.me/haimanotbeka" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>
+    <a href="mailto:haimanotbeka@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/haimanotbeka" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/haimanot-beka/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://x.com/haimanot_beka" target="_blank">
+      <img src="https://img.shields.io/badge/X_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://www.youtube.com/@haimanotbeka" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    </a>
+    <a href="https://my-portfolio-l9o0.onrender.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=web&logoColor=white" />
+    </a>
   </p>
 </div>
+<br/> <br/>
 
-<br/>
+ <h2 align="center"> Do you want to explore my work ,skills and background  in detail ? </h2>
 
-<h2 align="center">Do you want to explore my work, skills, and background in detail?</h2>
-<p align="center">
+<p>
+  Alright! there is a way more.<br/>
   Beyond my GitHub profile, I’ve also built a personal portfolio website that showcases my featured work, technical stack, and professional experience in a clean, modern, and interactive way.
 </p>
 
@@ -194,3 +234,6 @@ I am currently gaining hands-on experience at **Pitronn Tech Solution**, strengt
     <img src="https://img.shields.io/badge/%20Explore%20My%20Portfolio%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
   </a>
 </p>
+
+<br/><br/><br/>
+
