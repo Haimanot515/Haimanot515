@@ -53,7 +53,7 @@ My projects reflect my passion for building practical, scalable, and user-focuse
 
 
 ### Portfolio Website
-A professional photography platform that showcases stunning visual content through dynamic and interactive media galleries. Designed for photographers and creative professionals, the platform allows users to browse, explore, and engage with high-quality images and portfolios seamlessly.
+A responsive and visually appealing personal portfolio website built to showcase my skills, projects, and experience as a full-stack developer, with easy access to my work, tech stack, and contact information.
 <br/><br/>
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1773813385/por_nhrq6a.png" width="100%" style="border-radius:10px;" />
 
