@@ -149,7 +149,7 @@ A professional business website developed for Vector Manufacturing and Advertisi
 </div>
 <br/> <br/>
 
- <h2 align="center">🌐 Do you want to explore my work ,skills and background  in detail ? </h2>
+ <h2 align="center"> Do you want to explore my work ,skills and background  in detail ? </h2>
 
 <p>
   Alright! there is a way more.<br/>
@@ -158,7 +158,7 @@ A professional business website developed for Vector Manufacturing and Advertisi
 
 <p align="center">
   <a href="https://my-portfolio-l9o0.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Portfolio%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/%20Explore%20My%20Portfolio%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
   </a>
 </p>
 
