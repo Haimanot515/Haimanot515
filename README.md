@@ -106,6 +106,7 @@ A professional business website developed for Vector Manufacturing and Advertisi
   <a href="https://github.com/Haimanot515/Vector" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:18px; font-weight:bold; text-decoration:none;"> GitHub</a>
   <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:18px; font-weight:bold; text-decoration:none;"> Video Demo</a>
 </div>
+<br/><br/>
 ### Ethio Coding School
 An innovative educational platform dedicated to coding and software development training in Ethiopia. The platform aims to make learning programming accessible, interactive, and structured for students at all levels. It offers comprehensive courses, hands-on projects, and practical exercises, helping learners build real-world skills in web development, data structures, and modern technologies. Designed with a clean and user-friendly interface, the platform ensures an engaging learning experience while empowering students to launch their coding careers confidently.
 
