@@ -161,7 +161,7 @@ An innovative educational platform dedicated to coding and software development 
 </div>
 <br/> <br/>
 
- <h2 align="center">🌐 Do you want to Explor my work ,skills and Background  in detail ? </h2>
+ <h2 align="center">🌐 Do you want to explore my work ,skills and background  in detail ? </h2>
 
 <p>
   Want to see more of my projects, skills, and full-stack development journey in detail?<br/>
