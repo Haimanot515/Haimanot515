@@ -134,7 +134,7 @@ An innovative educational platform dedicated to coding and software development 
 <br/><br/><br/>
 
 <div align="center">
-  <h2 align="center">🌐 Connect With Me</h2>
+  <h2 align="center">Connect With Me</h2>
   <p align="center">
     <a href="https://t.me/haimanotbeka" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
