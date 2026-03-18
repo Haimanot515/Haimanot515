@@ -95,7 +95,7 @@ An industrial service ecosystem and agricultural marketplace designed to connect
 <br/><br/><br/>
 
 ### Vector Manufacturing and Advertising plc.
-An industrial service ecosystem and agricultural marketplace designed to connect local farmers directly with consumers and industrial resources.
+A professional business website developed for Vector Manufacturing and Advertising PLC to showcase the company’s services, products, and brand identity through a modern, responsive, and user-friendly digital platform. The website is designed to strengthen the company’s online presence by presenting its manufacturing and advertising solutions in a clear and visually engaging way. It includes service highlights, company information, project showcases, and contact sections, making it easier for clients and partners to learn about the business and connect efficiently.
 <br/><br/>
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1773814231/vec_l8jlno.png" width="100%" style="border-radius:10px;" />
 
