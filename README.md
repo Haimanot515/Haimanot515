@@ -72,7 +72,7 @@ An industrial service ecosystem and agricultural marketplace designed to connect
 
 <br>
 <div style="display: flex; justify-content: space-between; gap: 100px; flex-wrap: wrap; margin-top: 20px;">
-  <a href="https://fasika-farmers-connect-5r2h.onrender.com" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#61DAFB; color:white; border-radius:18px; font-weight:bold; text-decoration:none;"> Live Demo</a>
+  <a href="https://fasika-farmers-connect-5r2h.onrender.com" style="flex: 1; text-align: center; padding: 15px 0; background-color:#61DAFB; color:white; border-radius:18px; font-weight:bold; text-decoration:none;"> Live Demo</a>
   <a href="https://github.com/haimanotbeka/fasika-farmers-connect" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:18px; font-weight:bold; text-decoration:none;"> GitHub</a>
   <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:18px; font-weight:bold; text-decoration:none;"> Video Demo</a>
 </div>
