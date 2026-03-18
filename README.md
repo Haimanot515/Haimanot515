@@ -21,16 +21,18 @@
     </td>
   </tr>
 </table>
- 
-# 🏫 Campus Projects Portfolio
 
-This section showcases my work related to campus projects, highlighting my skills in web development, project management, and interactive design. Each project demonstrates my ability to build functional, visually appealing, and user-friendly applications that solve real-world problems.
+# 🎓 Addis Ababa University – Software Engineering Journey
+
+I began my software engineering journey at **Addis Ababa University**, where I built a strong foundation in programming, software development, and web technologies. During my studies, I worked on multiple projects that enhanced my skills in HTML, CSS, JavaScript, React, Node.js, and database management. These experiences allowed me to apply theoretical knowledge to real-world applications, creating functional, interactive, and visually appealing solutions. This portfolio highlights my growth as a software engineer and showcases the projects that reflect my dedication, creativity, and problem-solving abilities.
 
 ## 🎬 Campus Project Demo Video
 
 [![Watch the Demo](https://img.youtube.com/vi/EWTrBBjJk64/0.jpg)](https://youtu.be/EWTrBBjJk64?si=n6dG6J62Z6PjPwoo)
 
-Click the image above to watch the live demo of my campus project on YouTube. 🚀
+Click the image above to watch a live demo of one of my projects created during my studies at Addis Ababa University. 🚀
+ 
+
 <br/><br/><br/>
 
 <div align="center">
