@@ -51,6 +51,20 @@ My projects reflect my passion for building practical, scalable, and user-focuse
 
 <br/><br/><br/>
 
+https://res.cloudinary.com/dq3jkpys8/image/upload/v1773813385/por_nhrq6a.png
+
+### Portfolio Website
+A professional photography platform that showcases stunning visual content through dynamic and interactive media galleries. Designed for photographers and creative professionals, the platform allows users to browse, explore, and engage with high-quality images and portfolios seamlessly.
+<br/><br/>
+<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1773813385/por_nhrq6a.png" width="100%" style="border-radius:10px;" />
+
+<br>
+<div style="display: flex; justify-content: space-between; gap: 100px; flex-wrap: wrap; margin-top: 20px;">
+  <a href="https://addis-photo-an-media-agency-demo2.onrender.com" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#61DAFB; color:white; border-radius:12px; font-weight:bold; text-decoration:none;">Live Demo</a>
+  <a href="https://github.com/haimanotbeka/addis-photo-media-agency" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:12px; font-weight:bold; text-decoration:none;"> GitHub</a>
+  <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:12px; font-weight:bold; text-decoration:none;"> Video Demo</a>
+</div
+
 ### Addis Photo & Media Agency
 A professional photography platform that showcases stunning visual content through dynamic and interactive media galleries. Designed for photographers and creative professionals, the platform allows users to browse, explore, and engage with high-quality images and portfolios seamlessly.
 <br/><br/>
