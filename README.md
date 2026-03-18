@@ -68,7 +68,8 @@ My projects reflect my passion for building practical, scalable, and user-focuse
 <br/><br/><br/>
 
 
-### Portfolio Website
+
+<h2 align="center">Portfolio Website</h2>
 A responsive and visually appealing personal portfolio website built to showcase my skills, projects, and experience as a full-stack developer, with easy access to my work, tech stack, and contact information.
 <br/><br/>
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1773813385/por_nhrq6a.png" width="100%" style="border-radius:10px;" />
@@ -82,7 +83,10 @@ A responsive and visually appealing personal portfolio website built to showcase
 <br/> <br/>
 
 
-### Addis Photo & Media Agency
+
+
+<h2 align="center">Addis Photo & Media Agency</h2>
+
 A professional photography platform that showcases stunning visual content through dynamic and interactive media galleries. Designed for photographers and creative professionals, the platform allows users to browse, explore, and engage with high-quality images and portfolios seamlessly.
 <br/><br/>
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770189399/projects/fsdpnb2ocar9lxudruvr.png" width="100%" style="border-radius:10px;" />
@@ -96,7 +100,9 @@ A professional photography platform that showcases stunning visual content throu
 
 <br/><br/><br/>
 
-### Fasika Farmers Connect
+### 
+
+<h2 align="center">Fasika Farmers Connect</h2>
 An industrial service ecosystem and agricultural marketplace designed to connect local farmers directly with consumers and industrial resources.
 <br/><br/>
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770186676/projects/mukxuhhhd91xpzp16sel.png" width="100%" style="border-radius:10px;" />
@@ -110,7 +116,8 @@ An industrial service ecosystem and agricultural marketplace designed to connect
 
 <br/><br/><br/>
 
-### Vector Manufacturing and Advertising plc.
+
+<h2 align="center">Vector Manufacturing and Advertising plc.</h2>
 A professional business website developed for Vector Manufacturing and Advertising PLC to showcase the company’s services, products, and brand identity through a modern, responsive, and user-friendly digital platform. The website is designed to strengthen the company’s online presence by presenting its manufacturing and advertising solutions in a clear and visually engaging way. It includes service highlights, company information, project showcases, and contact sections, making it easier for clients and partners to learn about the business and connect efficiently.
 <br/><br/>
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1773814231/vec_l8jlno.png" width="100%" style="border-radius:10px;" />
