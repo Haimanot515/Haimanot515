@@ -31,7 +31,7 @@ I began my software engineering journey at **Addis Ababa University**, where I b
 <a href="https://youtu.be/EWTrBBjJk64?si=n6dG6J62Z6PjPwoo" target="_blank">
   <img src="https://img.youtube.com/vi/EWTrBBjJk64/maxresdefault.jpg" 
        alt="Watch the Demo" 
-       style=" width: 100% height:300px;" />
+       style=" width: 100% height:100px;" />
 </a>
 
 
