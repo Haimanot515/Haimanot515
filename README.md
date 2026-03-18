@@ -21,14 +21,14 @@
     </td>
   </tr>
 </table>
-## 🌐 Explore My Work
+ 🌐 Explore My Work
 
 Want to see more of my projects, skills, and full-stack development journey in detail?  
 In addition to my GitHub profile, I have also developed a personal portfolio website that showcases my work, featured projects, technical stack, and professional experience in a clean, modern, and interactive way.
 
 <p align="center">
   <a href="YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://my-portfolio-l9o0.onrender.com" />
   </a>
 </p>
 
