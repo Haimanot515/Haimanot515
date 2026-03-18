@@ -93,6 +93,18 @@ An industrial service ecosystem and agricultural marketplace designed to connect
 </div>
 
 <br/><br/><br/>
+
+### Vector Manufacturing and Advertising plc.
+An industrial service ecosystem and agricultural marketplace designed to connect local farmers directly with consumers and industrial resources.
+<br/><br/>
+<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1773814231/vec_l8jlno.png" width="100%" style="border-radius:10px;" />
+
+<br>
+<div style="display: flex; justify-content: space-between; gap: 100px; flex-wrap: wrap; margin-top: 20px;">
+  <a href="not given" style="flex: 1; text-align: center; padding: 15px 0; background-color:#61DAFB; color:white; border-radius:18px; font-weight:bold; text-decoration:none;"> Live Demo</a>
+  <a href="https://github.com/haimanotbeka/fasika-farmers-connect" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:18px; font-weight:bold; text-decoration:none;"> GitHub</a>
+  <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:18px; font-weight:bold; text-decoration:none;"> Video Demo</a>
+</div>
 ### Ethio Coding School
 An innovative educational platform dedicated to coding and software development training in Ethiopia. The platform aims to make learning programming accessible, interactive, and structured for students at all levels. It offers comprehensive courses, hands-on projects, and practical exercises, helping learners build real-world skills in web development, data structures, and modern technologies. Designed with a clean and user-friendly interface, the platform ensures an engaging learning experience while empowering students to launch their coding careers confidently.
 
