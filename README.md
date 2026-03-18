@@ -1,6 +1,6 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="66%" valign="top" style="border: none; padding-right: 18px;">
+    <td width="70%" valign="top" style="border: none; padding-right: 18px;">
       <h1 style="border-bottom: none; margin-top: 0;">Hello! I am Haimanot Beka </h1>
       <p><strong>Full Stack Developer | 3rd Year Software Engineering Student @ Addis Ababa University</strong></p>
       <p>
