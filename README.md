@@ -21,11 +21,10 @@
     </td>
   </tr>
 </table>
-
 ## 🌐 Explore My Work
 
-Want to see more of my projects, skills, and full-stack development journey?  
-Check out my personal portfolio website where I showcase my featured work, technical stack, and professional experience in a clean and interactive way.
+Want to see more of my projects, skills, and full-stack development journey in detail?  
+In addition to my GitHub profile, I have also developed a personal portfolio website that showcases my work, featured projects, technical stack, and professional experience in a clean, modern, and interactive way.
 
 <p align="center">
   <a href="YOUR_PORTFOLIO_LINK" target="_blank">
