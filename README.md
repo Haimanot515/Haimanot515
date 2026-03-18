@@ -68,7 +68,7 @@ A professional photography platform that showcases stunning visual content throu
 ### Fasika Farmers Connect
 An industrial service ecosystem and agricultural marketplace designed to connect local farmers directly with consumers and industrial resources.
 <br/><br/>
-<img src="https://fasika-farmers-connect-5r2h.onrender.com" width="100%" style="border-radius:10px;" />
+<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770186676/projects/mukxuhhhd91xpzp16sel.png" width="100%" style="border-radius:10px;" />
 
 <br>
 <div style="display: flex; justify-content: space-between; gap: 100px; flex-wrap: wrap; margin-top: 20px;">
