@@ -74,7 +74,7 @@ A professional photography platform that showcases stunning visual content throu
 <br>
 <div style="display: flex; justify-content: space-between; gap: 100px; flex-wrap: wrap; margin-top: 20px;">
   <a href="https://addis-photo-an-media-agency-demo2.onrender.com" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#61DAFB; color:white; border-radius:12px; font-weight:bold; text-decoration:none;">Live Demo</a>
-  <a href="https://github.com/haimanotbeka/addis-photo-media-agency" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:12px; font-weight:bold; text-decoration:none;"> GitHub</a>
+  <a href="https://github.com/Haimanot515/Addis-Photo-an-Media-Agency-Demo2" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:12px; font-weight:bold; text-decoration:none;"> GitHub</a>
   <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:12px; font-weight:bold; text-decoration:none;"> Video Demo</a>
 </div>
 
