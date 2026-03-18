@@ -22,7 +22,15 @@
   </tr>
 </table>
  
+# 🏫 Campus Projects Portfolio
 
+This section showcases my work related to campus projects, highlighting my skills in web development, project management, and interactive design. Each project demonstrates my ability to build functional, visually appealing, and user-friendly applications that solve real-world problems.
+
+## 🎬 Campus Project Demo Video
+
+[![Watch the Demo](https://img.youtube.com/vi/EWTrBBjJk64/0.jpg)](https://youtu.be/EWTrBBjJk64?si=n6dG6J62Z6PjPwoo)
+
+Click the image above to watch the live demo of my campus project on YouTube. 🚀
 <br/><br/><br/>
 
 <div align="center">
