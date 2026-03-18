@@ -1,7 +1,7 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="70%" valign="top" style="border: none; padding-right: 18px;">
-      <h1 style="border-bottom: none; margin-top: 0;">Hello! I am Haimanot Beka </h1>
+    <td width="60%" valign="top" style="border: none; padding-right: 18px;">
+      <h1 style="border-bottom: none; margin-top: 0;">Hello! I am Haimanot Beka</h1>
       <p><strong>Full Stack Developer | 3rd Year Software Engineering Student @ Addis Ababa University</strong></p>
       <p>
         I build practical, scalable, and user-focused web applications designed to solve real-world problems with efficiency, performance, and reliability. My approach centers on writing clean, maintainable code, following modern architectural principles, and creating applications that are both robust and easy to scale.
@@ -16,8 +16,8 @@
     <td width="40%" valign="top" align="right" style="border: none;">
       <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1773873371/i1q5f5ahd4baw3yjqxwz_sfc16v.jpg" 
            alt="Haimanot Beka" 
-           width="300px" 
-           style="border-radius: 50%; height:"auto"; border: 4px solid #61DAFB; display: block;" />
+           width="300" 
+           style="border-radius: 50%; height: auto; border: 4px solid #61DAFB; display: block;" />
     </td>
   </tr>
 </table>
