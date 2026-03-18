@@ -27,26 +27,13 @@
 I began my software engineering journey at **Addis Ababa University**, where I built a strong foundation in programming, software development, and web technologies. During my studies, I worked on multiple projects that enhanced my skills in HTML, CSS, JavaScript, React, Node.js, and database management. These experiences allowed me to apply theoretical knowledge to real-world applications, creating functional, interactive, and visually appealing solutions. This portfolio highlights my growth as a software engineer and showcases the projects that reflect my dedication, creativity, and problem-solving abilities.
 
 ##
-<h2>🎬 Campus Project Demo Video</h2>
-
-<a href="https://youtu.be/EWTrBBjJk64?si=n6dG6J62Z6PjPwoo" target="_blank" style="position: relative; display: inline-block; width: 100%;">
-  <!-- Thumbnail -->
+<a href="https://youtu.be/EWTrBBjJk64?si=n6dG6J62Z6PjPwoo" target="_blank">
   <img src="https://img.youtube.com/vi/EWTrBBjJk64/maxresdefault.jpg" 
        alt="Watch the Demo" 
-       style="width: 100%; height: 200px; display: block;" />
-
-  <!-- Play Icon Overlay -->
-  <span style="
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      font-size: 60px;
-      color: white;
-      text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
-      pointer-events: none;
-  ">▶️</span>
+       style="width: 100%; height: 320px;" />
 </a>
+
+
 
 <p>Click the image above to watch a live demo of my project. 🚀</p>
 
