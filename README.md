@@ -108,18 +108,6 @@ A professional business website developed for Vector Manufacturing and Advertisi
 </div>
 <br/><br/>
 
-### Ethio Coding School <br/>
-An innovative educational platform dedicated to coding and software development training in Ethiopia. The platform aims to make learning programming accessible, interactive, and structured for students at all levels. It offers comprehensive courses, hands-on projects, and practical exercises, helping learners build real-world skills in web development, data structures, and modern technologies. Designed with a clean and user-friendly interface, the platform ensures an engaging learning experience while empowering students to launch their coding careers confidently.
-
-<img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770190285/projects/onrmthycgkbhdpjlyv3c.png" width="100%" style="border-radius:10px;" />
-
-
-<br>
-<div style="display: flex; justify-content: space-between; gap: 100px; flex-wrap: wrap; margin-top: 20px;">
-  <a href="https://ethio-coding-school.onrender.com" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#61DAFB; color:white; border-radius:12px; font-weight:bold; text-decoration:none;">   Live Demo</a>
-  <a href="https://github.com/haimanotbeka/ethio-coding-school" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:12px; font-weight:bold; text-decoration:none;">   GitHub</a>
-  <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:12px; font-weight:bold; text-decoration:none;">   Video Demo</a>
-</div>
 
 <br/><br/><br/>
 
