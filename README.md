@@ -34,6 +34,24 @@ I began my software engineering journey at **Addis Ababa University**, where I b
 </a>
 
 
+## 💼 Internship Experience
+
+### **Backend Development Intern – Pitronn Tech Solution**  
+📍 Addis Ababa, Ethiopia | 🗓 March 2025 – Present  
+
+I am currently following a **backend-focused internship at Pitronn Tech Solution**, a leading technology company, where I am **practicing and strengthening my backend development skills**. During this internship, I am gaining hands-on experience with **server-side programming, API development, database handling, and full-stack project integration**.  
+
+**Key Responsibilities & Learnings:**  
+- Developing and maintaining backend logic for web applications using **Node.js and Express.js**  
+- Creating and testing **REST APIs** for frontend integration  
+- Managing and organizing **databases** and performing CRUD operations  
+- Implementing real-world **Git workflows** including pull requests, merging, rebasing, and stashing  
+- Collaborating with a team to structure full-stack projects and deploy them efficiently  
+- Learning best practices for **scalable and maintainable backend systems**  
+
+This experience allows me to **bridge theoretical knowledge with real-world backend development**, preparing me for professional software engineering roles.
+
+
 
 
 
