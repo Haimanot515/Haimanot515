@@ -64,7 +64,7 @@ A professional photography platform that showcases stunning visual content throu
   <a href="https://github.com/haimanotbeka/addis-photo-media-agency" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:12px; font-weight:bold; text-decoration:none;"> GitHub</a>
   <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:12px; font-weight:bold; text-decoration:none;"> Video Demo</a>
 </div
-
+<br/> <br/>
 ### Addis Photo & Media Agency
 A professional photography platform that showcases stunning visual content through dynamic and interactive media galleries. Designed for photographers and creative professionals, the platform allows users to browse, explore, and engage with high-quality images and portfolios seamlessly.
 <br/><br/>
