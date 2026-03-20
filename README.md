@@ -220,7 +220,7 @@ I am currently participating in a **backend-focused internship at Pitronn Tech S
 
 ---
 
-### 🛠️ Progress Legend
+### Legend
 * ✅ **Completed**: Milestone reached and code reviewed.
 * ⏳ **In Progress**: Active sprint (Current Focus).
 * ⚪ **Planned**: Future architecture and implementation.
