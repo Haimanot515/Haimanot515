@@ -106,7 +106,11 @@ Beyond simply displaying projects, this portfolio demonstrates my commitment to 
 
 <h2 align="center">Addis Photo & Media Agency</h2>
 
-A professional photography platform that showcases stunning visual content through dynamic and interactive media galleries. Designed for photographers and creative professionals, the platform allows users to browse, explore, and engage with high-quality images and portfolios seamlessly.
+This project is a professional photography platform designed to showcase stunning visual content through dynamic, interactive, and visually engaging media galleries. Created for photographers, visual artists, and creative professionals, the platform allows users to easily browse, explore, and engage with high-quality images and curated portfolios. The system emphasizes both aesthetic presentation and smooth functionality, ensuring that every visitor enjoys a seamless and immersive experience when interacting with visual content.
+
+The platform is built with attention to responsive design and accessibility, making it usable across devices of all sizes while maintaining the integrity and quality of the imagery. Users can explore galleries with intuitive navigation, view images in high resolution, and interact with featured portfolios in a way that highlights the creativity and skill of the contributing artists. Special focus has been placed on creating a visually cohesive interface that balances minimalism with engaging visuals, allowing the artwork itself to take center stage while providing context and information about each project or image.
+
+
 <br/><br/>
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770189399/projects/fsdpnb2ocar9lxudruvr.png" width="100%" style="border-radius:10px;" />
 
@@ -116,6 +120,8 @@ A professional photography platform that showcases stunning visual content throu
   <a href="https://github.com/Haimanot515/Addis-Photo-an-Media-Agency-Demo2" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:12px; font-weight:bold; text-decoration:none;"> GitHub</a>
   <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:12px; font-weight:bold; text-decoration:none;"> Video Demo</a>
 </div>
+<br/>
+The platform is built with attention to responsive design and accessibility, making it usable across devices of all sizes while maintaining the integrity and quality of the imagery. Users can explore galleries with intuitive navigation, view images in high resolution, and interact with featured portfolios in a way that highlights the creativity and skill of the contributing artists. Special focus has been placed on creating a visually cohesive interface that balances minimalism with engaging visuals, allowing the artwork itself to take center stage while providing context and information about each project or image.
 
 <br/><br/><br/>
 
