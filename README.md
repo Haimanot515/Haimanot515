@@ -82,9 +82,7 @@ This is a fully responsive and visually engaging personal portfolio website, tho
 
 The portfolio emphasizes clarity, accessibility, and user experience, ensuring that every section communicates meaningful information about my technical journey. Key sections include detailed project showcases that describe the objectives, challenges, and solutions of each project, a technology stack overview highlighting the tools and frameworks I actively use, and a professional introduction that contextualizes my experience and learning path. Additionally, the website includes an easily accessible contact section, allowing visitors and potential collaborators to reach out or connect with me through multiple channels.
 
-Beyond simply displaying projects, this portfolio demonstrates my commitment to clean and maintainable code, responsive design principles, and structured application architecture. It illustrates my ability to build functional and polished web applications that not only perform well but are also visually cohesive and user-friendly. By combining aesthetic design with practical functionality, the portfolio reflects my approach to software development — balancing technical proficiency, scalability, and user-centric design.
 
-The website also acts as a personal record of my growth and learning trajectory. Each section, project, and component represents deliberate effort to learn and implement best practices in modern development workflows, backend system design, deployment processes, and DevOps integration. By including examples of my work and clear explanations of my methodology, the portfolio communicates both my technical skills and my capacity to approach complex problems with thoughtful solutions. Overall, this portfolio serves as a professional digital presence that effectively conveys my capabilities, progress, and dedication to becoming a well-rounded, skilled software engineer capable of handling real-world challenges in web and backend development.
 <br/><br/>
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1773813385/por_nhrq6a.png" width="100%" style="border-radius:10px;" />
 
@@ -102,6 +100,9 @@ The website also acts as a personal record of my growth and learning trajectory.
     <span style="background-color:#FF0000; color:white; padding: 15px 30px; border-radius:12px; font-weight:bold; font-size:16px;">Video Demo</span>
   </a>
 </div>
+Beyond simply displaying projects, this portfolio demonstrates my commitment to clean and maintainable code, responsive design principles, and structured application architecture. It illustrates my ability to build functional and polished web applications that not only perform well but are also visually cohesive and user-friendly. By combining aesthetic design with practical functionality, the portfolio reflects my approach to software development — balancing technical proficiency, scalability, and user-centric design.
+
+The website also acts as a personal record of my growth and learning trajectory. Each section, project, and component represents deliberate effort to learn and implement best practices in modern development workflows, backend system design, deployment processes, and DevOps integration. By including examples of my work and clear explanations of my methodology, the portfolio communicates both my technical skills and my capacity to approach complex problems with thoughtful solutions. Overall, this portfolio serves as a professional digital presence that effectively conveys my capabilities, progress, and dedication to becoming a well-rounded, skilled software engineer capable of handling real-world challenges in web and backend development.
 <br/> <br/>
 
 
