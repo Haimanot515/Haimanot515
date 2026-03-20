@@ -224,17 +224,10 @@ I am currently participating in a **backend-focused internship at Pitronn Tech S
 * ⏳ **In Progress**: Active sprint (Current Focus).
 * ⚪ **Planned**: Future architecture and implementation.
 
-### **Key Responsibilities & Learnings**
-- Developed and maintained backend logic for real-world web applications  
-- Created and tested **REST APIs** integrated with frontend interfaces  
-- Managed relational databases using **TypeORM** with PostgreSQL  
-- Implemented **authentication and API security** with JWT/OAuth  
-- Wrote **unit and e2e tests** to ensure code reliability  
-- Optimized performance through **caching strategies** - Learned **microservices architecture** and basic **DevOps practices** - Practiced **real-world Git workflows** including branching, pull requests, rebasing, and stashing  
 
-> This internship bridges **theoretical knowledge with professional backend development**, equipping me for scalable full-stack projects and future software engineering roles.
 
 </div>
+<br/><br/>
 
 
 
