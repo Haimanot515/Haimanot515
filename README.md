@@ -197,7 +197,33 @@ I am currently participating in a **backend-focused internship at Pitronn Tech S
 
 ### **Core Internship Modules & Progress**
 
-WeekMilestoneFocus AreaStatus01M1: FoundationsGit Basics, Branching & PR Workflow✅02M1: FoundationsNode.js + TypeScript (Async/Env/FS)⏳03M1: FoundationsHTTP Protocol & NestJS Introduction⚪04M2: Core BackendNestJS REST APIs & CRUD Patterns⚪05M2: Core BackendDTOs, Validation Pipes & JWT Auth⚪06M2: Core BackendPostgreSQL + TypeORM (Entities/Relations)⚪07M2: Core BackendSecurity, Middleware & ConfigModule⚪08M3: AdvancedRBAC Hardening & Ownership Checks⚪09M3: AdvancedUnit Testing (Jest & Mocking)⚪10M3: AdvancedE2E Testing (Supertest & Test DB)⚪11M3: AdvancedCaching (Redis) & Query Performance⚪12M3: AdvancedBackground Jobs (Bull + Redis Queues)⚪13M4: MicroservicesGateway Pattern & RabbitMQ Transport⚪14M4: MicroservicesRabbitMQ Patterns (DLQ & Retries)⚪15M4: MicroservicesShared Libraries & Partial Failures⚪16M5: Final DeliveryDocker, Swagger & Cloud Deployment⚪
+### 🚀 Backend Engineering Roadmap (16-Week Intensive)
+
+| Week | Milestone | Focus Area | Status |
+| :--- | :--- | :--- | :---: |
+| **01** | **M1: Foundations** | Git Basics, Branching & PR Workflow | ✅ |
+| **02** | **M1: Foundations** | **Node.js + TypeScript (Async/Env/FS)** | ⏳ |
+| **03** | **M1: Foundations** | HTTP Protocol & NestJS Introduction | ⚪ |
+| **04** | **M2: Core Backend** | NestJS REST APIs & CRUD Patterns | ⚪ |
+| **05** | **M2: Core Backend** | DTOs, Validation Pipes & JWT Auth | ⚪ |
+| **06** | **M2: Core Backend** | PostgreSQL + TypeORM (Entities/Relations) | ⚪ |
+| **07** | **M2: Core Backend** | Security, Middleware & ConfigModule | ⚪ |
+| **08** | **M3: Advanced** | RBAC Hardening & Ownership Checks | ⚪ |
+| **09** | **M3: Advanced** | Unit Testing (Jest & Mocking) | ⚪ |
+| **10** | **M3: Advanced** | E2E Testing (Supertest & Test DB) | ⚪ |
+| **11** | **M3: Advanced** | Caching (Redis) & Query Performance | ⚪ |
+| **12** | **M3: Advanced** | Background Jobs (Bull + Redis Queues) | ⚪ |
+| **13** | **M4: Microservices** | Gateway Pattern & RabbitMQ Transport | ⚪ |
+| **14** | **M4: Microservices** | RabbitMQ Patterns (DLQ & Retries) | ⚪ |
+| **15** | **M4: Microservices** | Shared Libraries & Partial Failures | ⚪ |
+| **16** | **M5: Final Delivery** | Docker, Swagger & Cloud Deployment | ⚪ |
+
+---
+
+### 🛠️ Progress Legend
+* ✅ **Completed**: Milestone reached and code reviewed.
+* ⏳ **In Progress**: Active sprint (Current Focus).
+* ⚪ **Planned**: Future architecture and implementation.
 
 ### **Key Responsibilities & Learnings**
 - Developed and maintained backend logic for real-world web applications  
