@@ -197,23 +197,7 @@ I am currently participating in a **backend-focused internship at Pitronn Tech S
 
 ### **Core Internship Modules & Progress**
 
-Week,Milestone,Focus Area,Status
-01,M1: Foundations,Git Workflow & PRs,✅
-02,M1: Foundations,Node.js + TypeScript (Async/Env),⏳
-03,M1: Foundations,HTTP + NestJS Introduction,⚪
-04,M2: Core Backend,NestJS REST APIs & CRUD,⚪
-05,M2: Core Backend,"DTOs, Validation & JWT Auth",⚪
-06,M2: Core Backend,PostgreSQL + TypeORM Entities,⚪
-07,M2: Core Backend,"Security, Middleware & Config",⚪
-08,M3: Advanced,RBAC Hardening & Ownership,⚪
-09,M3: Advanced,Unit Testing (Jest),⚪
-10,M3: Advanced,E2E Testing (Supertest),⚪
-11,M3: Advanced,Caching (Redis) & Performance,⚪
-12,M3: Advanced,Background Jobs (Bull + Redis),⚪
-13,M4: Microservices,Gateway Pattern & Split Services,⚪
-14,M4: Microservices,RabbitMQ Patterns & DLQ,⚪
-15,M4: Microservices,Shared DTOs & Partial Failures,⚪
-16,M5: Final Delivery,"Docker, Swagger & Deployment",⚪
+WeekMilestoneFocus AreaStatus01M1: FoundationsGit Basics, Branching & PR Workflow✅02M1: FoundationsNode.js + TypeScript (Async/Env/FS)⏳03M1: FoundationsHTTP Protocol & NestJS Introduction⚪04M2: Core BackendNestJS REST APIs & CRUD Patterns⚪05M2: Core BackendDTOs, Validation Pipes & JWT Auth⚪06M2: Core BackendPostgreSQL + TypeORM (Entities/Relations)⚪07M2: Core BackendSecurity, Middleware & ConfigModule⚪08M3: AdvancedRBAC Hardening & Ownership Checks⚪09M3: AdvancedUnit Testing (Jest & Mocking)⚪10M3: AdvancedE2E Testing (Supertest & Test DB)⚪11M3: AdvancedCaching (Redis) & Query Performance⚪12M3: AdvancedBackground Jobs (Bull + Redis Queues)⚪13M4: MicroservicesGateway Pattern & RabbitMQ Transport⚪14M4: MicroservicesRabbitMQ Patterns (DLQ & Retries)⚪15M4: MicroservicesShared Libraries & Partial Failures⚪16M5: Final DeliveryDocker, Swagger & Cloud Deployment⚪
 
 ### **Key Responsibilities & Learnings**
 - Developed and maintained backend logic for real-world web applications  
