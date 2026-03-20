@@ -197,18 +197,23 @@ I am currently participating in a **backend-focused internship at Pitronn Tech S
 
 ### **Core Internship Modules & Progress**
 
-| Module / Skill Area              | Week 1 | Week 3 | Week 7 | Week 11 | Week 15 | Week 16 (Final) |
-|---------------------------------|--------|--------|--------|---------|---------|----------------|
-| Git & Pull Request Workflow      | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
-| TypeScript Fundamentals          | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
-| NestJS Fundamentals              | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
-| Database & TypeORM               | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
-| Authentication & API Security    | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
-| Testing (unit + e2e)             | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
-| Caching & Performance            | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
-| Microservices & DevOps           | ✅      | ✅      | ✅      | ✅       | ✅       | ✅              |
-
----
+Week,Milestone,Focus Area,Status
+01,M1: Foundations,Git Workflow & PRs,✅
+02,M1: Foundations,Node.js + TypeScript (Async/Env),⏳
+03,M1: Foundations,HTTP + NestJS Introduction,⚪
+04,M2: Core Backend,NestJS REST APIs & CRUD,⚪
+05,M2: Core Backend,"DTOs, Validation & JWT Auth",⚪
+06,M2: Core Backend,PostgreSQL + TypeORM Entities,⚪
+07,M2: Core Backend,"Security, Middleware & Config",⚪
+08,M3: Advanced,RBAC Hardening & Ownership,⚪
+09,M3: Advanced,Unit Testing (Jest),⚪
+10,M3: Advanced,E2E Testing (Supertest),⚪
+11,M3: Advanced,Caching (Redis) & Performance,⚪
+12,M3: Advanced,Background Jobs (Bull + Redis),⚪
+13,M4: Microservices,Gateway Pattern & Split Services,⚪
+14,M4: Microservices,RabbitMQ Patterns & DLQ,⚪
+15,M4: Microservices,Shared DTOs & Partial Failures,⚪
+16,M5: Final Delivery,"Docker, Swagger & Deployment",⚪
 
 ### **Key Responsibilities & Learnings**
 - Developed and maintained backend logic for real-world web applications  
