@@ -74,7 +74,9 @@ My projects reflect my strong passion for building practical, scalable, and real
 
 
 <h2 align="center">Portfolio Website</h2>
-A responsive and visually appealing personal portfolio website built to showcase my skills, projects, and experience as a full-stack developer, with easy access to my work, tech stack, and contact information.
+Portfolio Website
+
+A responsive and visually appealing personal portfolio website designed to professionally showcase my skills, projects, and growth as a developer. This project serves as a central place where visitors can explore my work, learn about my technical background, and gain insight into the tools and technologies I use. The website highlights my featured projects, development journey, and core areas of focus, while also providing easy access to my tech stack, contact information, and professional presence. Built with an emphasis on clean design, responsiveness, and user experience, this portfolio reflects both my technical abilities and my commitment to creating polished, accessible, and engaging web applications.
 <br/><br/>
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1773813385/por_nhrq6a.png" width="100%" style="border-radius:10px;" />
 
