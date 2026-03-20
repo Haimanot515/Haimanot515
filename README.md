@@ -14,7 +14,7 @@
       </p>
     </td>
     <td width="40%" valign="top" align="right" style="border: none;">
-      <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1774010782/fh25fqqr2rznkttvf9jn_c9sy6r.jpg" 
+      <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1774010966/fh25fqqr2rznkttvf9jn_ql7sji.jpg" 
            alt="Haimanot Beka" 
            width="350" 
            style="border-radius: 50%; height: auto; border: 4px solid #61DAFB; display: block;" />
