@@ -172,7 +172,7 @@ The platform emphasizes clarity, accessibility, and aesthetic design, ensuring t
 
 
 <br/><br/><br/>
-<h2 align="left">Internship experience</h2>
+<h2 align="center">Internship experience</h2>
 
 ### **Backend Development Intern – Pitron Tech Solution**  
  Addis Ababa, Ethiopia |  March 2026 – Present  
