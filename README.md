@@ -128,7 +128,7 @@ The platform is built with attention to responsive design and accessibility, mak
 ### 
 
 <h2 align="center">Fasika Farmers Connect</h2>
-Industrial & Agricultural Marketplace
+
 
 This project is a comprehensive industrial service ecosystem and agricultural marketplace built to connect local farmers directly with consumers and essential industrial resources. Designed to streamline the supply chain and provide a reliable platform for agricultural trade, the system enables farmers to showcase their products, manage inventory, and reach a broader audience while giving consumers and industrial partners access to high-quality agricultural goods and services. The platform emphasizes transparency, efficiency, and user engagement, ensuring that every interaction adds value to both producers and buyers.
 
