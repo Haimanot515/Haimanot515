@@ -159,7 +159,6 @@ I am currently participating in a **backend-focused internship at Pitronn Tech S
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Database-FF6C37?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/REST-007ACC?style=for-the-badge&logo=rest-api&logoColor=white" />
