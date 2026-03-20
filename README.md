@@ -95,6 +95,7 @@ This is a fully responsive and visually engaging personal portfolio website, tho
     <span style="background-color:#FF0000; color:white; padding: 15px 30px; border-radius:12px; font-weight:bold; font-size:16px;">Video Demo</span>
   </a>
 </div>
+<br/>
 Beyond simply displaying projects, this portfolio demonstrates my commitment to clean and maintainable code, responsive design principles, and structured application architecture. It illustrates my ability to build functional and polished web applications that not only perform well but are also visually cohesive and user-friendly. By combining aesthetic design with practical functionality, the portfolio reflects my approach to software development — balancing technical proficiency, scalability, and user-centric design.
 
 
