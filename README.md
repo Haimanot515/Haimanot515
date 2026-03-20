@@ -128,7 +128,12 @@ The platform is built with attention to responsive design and accessibility, mak
 ### 
 
 <h2 align="center">Fasika Farmers Connect</h2>
-An industrial service ecosystem and agricultural marketplace designed to connect local farmers directly with consumers and industrial resources.
+Industrial & Agricultural Marketplace
+
+This project is a comprehensive industrial service ecosystem and agricultural marketplace built to connect local farmers directly with consumers and essential industrial resources. Designed to streamline the supply chain and provide a reliable platform for agricultural trade, the system enables farmers to showcase their products, manage inventory, and reach a broader audience while giving consumers and industrial partners access to high-quality agricultural goods and services. The platform emphasizes transparency, efficiency, and user engagement, ensuring that every interaction adds value to both producers and buyers.
+
+
+.
 <br/><br/>
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770186676/projects/mukxuhhhd91xpzp16sel.png" width="100%" style="border-radius:10px;" />
 
@@ -138,6 +143,8 @@ An industrial service ecosystem and agricultural marketplace designed to connect
   <a href="https://github.com/Haimanot515/Fasika" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:18px; font-weight:bold; text-decoration:none;"> GitHub</a>
   <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:18px; font-weight:bold; text-decoration:none;"> Video Demo</a>
 </div>
+<br/>
+The marketplace has been developed with a focus on responsive design and user-friendly interfaces, making it accessible across devices of all sizes while maintaining consistent functionality and clarity. Farmers can easily list products, manage orders, and interact with customers, while buyers can search, filter, and explore offerings in a structured and intuitive manner. By integrating features like inventory management, transaction tracking, and communication channels, the platform supports a seamless and professional experience for all stakeholders.
 
 <br/><br/><br/>
 
