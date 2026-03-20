@@ -195,9 +195,9 @@ I am currently participating in a **backend-focused internship at Pitronn Tech S
 
 ---
 
-### **Core Internship Modules & Progress**
 
-### 🚀 Backend Engineering Roadmap (16-Week Intensive)
+
+### Backend Engineering Internship Roadmap (16-Week Intensive)
 
 | Week | Milestone | Focus Area | Status |
 | :--- | :--- | :--- | :---: |
