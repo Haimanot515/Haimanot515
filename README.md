@@ -108,7 +108,7 @@ Beyond simply displaying projects, this portfolio demonstrates my commitment to 
 
 This project is a professional photography platform designed to showcase stunning visual content through dynamic, interactive, and visually engaging media galleries. Created for photographers, visual artists, and creative professionals, the platform allows users to easily browse, explore, and engage with high-quality images and curated portfolios. The system emphasizes both aesthetic presentation and smooth functionality, ensuring that every visitor enjoys a seamless and immersive experience when interacting with visual content.
 
-The platform is built with attention to responsive design and accessibility, making it usable across devices of all sizes while maintaining the integrity and quality of the imagery. Users can explore galleries with intuitive navigation, view images in high resolution, and interact with featured portfolios in a way that highlights the creativity and skill of the contributing artists. Special focus has been placed on creating a visually cohesive interface that balances minimalism with engaging visuals, allowing the artwork itself to take center stage while providing context and information about each project or image.
+
 
 
 <br/><br/>
