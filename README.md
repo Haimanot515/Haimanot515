@@ -172,10 +172,11 @@ The platform emphasizes clarity, accessibility, and aesthetic design, ensuring t
 
 
 <br/><br/><br/>
+<div align="center">
+
 <h2 align="center">Internship experience</h2>
 
-### **Backend Development Intern – Pitron Tech Solution**  
- Addis Ababa, Ethiopia |  March 2026 – Present  
+### **Backend Development Intern – Pitron Tech Solution** Addis Ababa, Ethiopia | March 2026 – Present  
 
 I am currently participating in a **backend-focused internship at Pitronn Tech Solution**, a leading technology company, where I am gaining hands-on experience and strengthening my backend development skills. The internship program covers modern backend technologies, frameworks, and best practices, giving me real-world software engineering exposure.
 
@@ -183,7 +184,7 @@ I am currently participating in a **backend-focused internship at Pitronn Tech S
 
 ### **Skills & Technologies I am Learning**
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -195,12 +196,10 @@ I am currently participating in a **backend-focused internship at Pitronn Tech S
 
 ---
 
-
-
 ### Backend Engineering Internship Roadmap (16-Week Intensive)
 
 | Week | Milestone | Focus Area | Status |
-| :--- | :--- | :--- | :---: |
+| :---: | :---: | :---: | :---: |
 | **01** | **M1: Foundations** | Git Basics, Branching & PR Workflow | ✅ |
 | **02** | **M1: Foundations** | **Node.js + TypeScript (Async/Env/FS)** | ⏳ |
 | **03** | **M1: Foundations** | HTTP Protocol & NestJS Introduction | ⚪ |
@@ -231,12 +230,11 @@ I am currently participating in a **backend-focused internship at Pitronn Tech S
 - Managed relational databases using **TypeORM** with PostgreSQL  
 - Implemented **authentication and API security** with JWT/OAuth  
 - Wrote **unit and e2e tests** to ensure code reliability  
-- Optimized performance through **caching strategies**  
-- Learned **microservices architecture** and basic **DevOps practices**  
-- Practiced **real-world Git workflows** including branching, pull requests, rebasing, and stashing  
+- Optimized performance through **caching strategies** - Learned **microservices architecture** and basic **DevOps practices** - Practiced **real-world Git workflows** including branching, pull requests, rebasing, and stashing  
 
 > This internship bridges **theoretical knowledge with professional backend development**, equipping me for scalable full-stack projects and future software engineering roles.
 
+</div>
 
 
 
