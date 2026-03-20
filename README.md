@@ -66,7 +66,7 @@ I began my software engineering journey at **Addis Ababa University**, where I b
 <h2 style="font-size:"20px" align="center">Featured Projects</h2>
 
 <p align="left">
-My projects reflect my strong passion for building practical, scalable, and real-world backend applications that solve meaningful problems and demonstrate modern software engineering practices. I am especially focused on developing systems that go beyond simple beginner projects by emphasizing clean architecture, maintainable code, and production-ready workflows. Most of my work is centered around backend development using NestJS and TypeScript, while also exploring the broader areas of SaaS architecture, microservices, and DevOps. Through these projects, I am learning how to design and build structured REST APIs, implement authentication and authorization, manage application configuration, and create modular systems that can grow over time. 
+My projects reflect my strong passion for building practical, scalable, and real-world frontend and backend applications that solve meaningful problems and demonstrate modern software engineering practices. I am especially focused on developing systems that go beyond simple beginner projects by emphasizing clean architecture, maintainable code, and production-ready workflows. Most of my work is centered around backend development using NestJS and TypeScript, while also exploring the broader areas of SaaS architecture, microservices, and DevOps. Through these projects, I am learning how to design and build structured REST APIs, implement authentication and authorization, manage application configuration, and create modular systems that can grow over time. 
 </p>
 
 <br/><br/><br/>
@@ -150,7 +150,12 @@ The marketplace has been developed with a focus on responsive design and user-fr
 
 
 <h2 align="center">Vector Manufacturing and Advertising plc.</h2>
-A professional business website developed for Vector Manufacturing and Advertising PLC to showcase the company’s services, products, and brand identity through a modern, responsive, and user-friendly digital platform. The website is designed to strengthen the company’s online presence by presenting its manufacturing and advertising solutions in a clear and visually engaging way. It includes service highlights, company information, project showcases, and contact sections, making it easier for clients and partners to learn about the business and connect efficiently.
+
+
+This project is a professionally developed business website for Vector Manufacturing and Advertising PLC, designed to effectively showcase the company’s services, products, and overall brand identity through a modern, responsive, and user-friendly digital platform. The website serves as a central hub for clients, partners, and stakeholders to explore the company’s manufacturing and advertising solutions, providing a seamless and engaging experience that strengthens the company’s online presence and reflects its professional image.
+
+
+
 <br/><br/>
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1773814231/vec_l8jlno.png" width="100%" style="border-radius:10px;" />
 
@@ -160,7 +165,10 @@ A professional business website developed for Vector Manufacturing and Advertisi
   <a href="https://github.com/Haimanot515/Vector" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#181717; color:white; border-radius:18px; font-weight:bold; text-decoration:none;"> GitHub</a>
   <a href="https://www.youtube.com/@haimanotbeka" target="_blank" style="flex: 1; text-align: center; padding: 15px 0; background-color:#FF0000; color:white; border-radius:18px; font-weight:bold; text-decoration:none;"> Video Demo</a>
 </div>
-<br/><br/>
+<br/>
+
+The platform emphasizes clarity, accessibility, and aesthetic design, ensuring that users can easily navigate through service highlights, project showcases, company information, and contact sections. Every page and component has been carefully structured to communicate the company’s value proposition while maintaining a visually appealing and cohesive interface. High-quality visuals, interactive elements, and a clean layout work together to highlight the company’s products and services in a way that is both informative and visually engaging.
+
 
 
 <br/><br/><br/>
