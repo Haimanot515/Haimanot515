@@ -5,7 +5,7 @@
       <p><strong>Full Stack Developer | 3rd Year Software Engineering Student @ Addis Ababa University</strong></p>
       <p>
         I build practical, scalable, and user-focused web applications designed to solve real-world problems with efficiency, performance, and reliability. My approach centers on writing clean, maintainable code, following modern architectural principles, and creating applications that are both robust and easy to scale.
-      </p> 
+      </p>    
       <p>
         I thrive on solving challenges through thoughtful problem-solving and logical thinking. Whether it’s building responsive front-end interfaces or designing efficient back-end systems, I enjoy every part of the development process.
       </p>
