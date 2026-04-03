@@ -1,7 +1,7 @@
-# SecureFlow: Automated Safety Gear Lifecycle Tracker
+# SafeGuard: Digital PPE Compliance & Tracking System
 
 ### Project Overview
-SecureFlow replaces unreliable paper-based tracking with a digital audit trail to prevent workers from using damaged or expired safety gear. This ensures high-risk worksites remain compliant with safety regulations and reduces the risk of workplace accidents.
+SafeGuard replaces unreliable paper-based tracking with a digital audit trail to prevent workers from using damaged or expired safety gear. This ensures high-risk worksites remain compliant with safety regulations and reduces the risk of workplace accidents.
 
 ---
 
