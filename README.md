@@ -204,7 +204,7 @@ I am currently participating in a **backend-focused internship at Pitronn Tech S
 | **01** | **M1: Foundations** | Git Basics, Branching & PR Workflow | ✅ |
 | **02** | **M1: Foundations** | **Node.js + TypeScript (Async/Env/FS)** |  ✅ |
 | **03** | **M1: Foundations** | HTTP Protocol & NestJS Introduction | ✅ |
-| **04** | **M2: Core Backend** | NestJS REST APIs & CRUD Patterns | ⏳  |
+| **04** | **M2: Core Backend** | NestJS REST APIs & CRUD Patterns |  ✅  |
 | **05** | **M2: Core Backend** | DTOs, Validation Pipes & JWT Auth | ⚪ |
 | **06** | **M2: Core Backend** | PostgreSQL + TypeORM (Entities/Relations) | ⚪ |
 | **07** | **M2: Core Backend** | Security, Middleware & ConfigModule | ⚪ |
