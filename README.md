@@ -11,7 +11,9 @@
         I thrive on solving challenges through thoughtful problem-solving and logical thinking. Whether it’s building responsive front-end interfaces or designing efficient back-end systems, I enjoy every part of the development process.
       </p>
       <p>
-        Currently, I specialize in full-stack development using Node.js,expressjs,nestjs, React,Next.js, and javascript, TypeScript, building scalable and high-performance applications.
+       <p>
+  Currently, I specialize in full-stack development using Node.js, Express.js, NestJS, React, Next.js, JavaScript, and TypeScript, building scalable and high-performance applications.
+</p>
       </p>
     </td>
     <td width="40%" valign="top" align="right" style="border: none;">
