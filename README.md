@@ -208,13 +208,13 @@ I am currently participating in a **backend-focused internship at Pitronn Tech S
 | **03** | **M1: Foundations** | HTTP Protocol & NestJS Introduction | ✅ |
 | **04** | **M2: Core Backend** | NestJS REST APIs & CRUD Patterns |  ✅  |
 | **05** | **M2: Core Backend** | DTOs, Validation Pipes & JWT Auth | ✅ |
-| **06** | **M2: Core Backend** | PostgreSQL + TypeORM (Entities/Relations) | ⚪ |
-| **07** | **M2: Core Backend** | Security, Middleware & ConfigModule | ⚪ |
-| **08** | **M3: Advanced** | RBAC Hardening & Ownership Checks | ⚪ |
-| **09** | **M3: Advanced** | Unit Testing (Jest & Mocking) | ⚪ |
-| **10** | **M3: Advanced** | E2E Testing (Supertest & Test DB) | ⚪ |
-| **11** | **M3: Advanced** | Caching (Redis) & Query Performance | ⚪ |
-| **12** | **M3: Advanced** | Background Jobs (Bull + Redis Queues) | ⚪ |
+| **06** | **M2: Core Backend** | PostgreSQL + TypeORM (Entities/Relations) | ✅  |
+| **07** | **M2: Core Backend** | Security, Middleware & ConfigModule | ✅  |
+| **08** | **M3: Advanced** | RBAC Hardening & Ownership Checks | ✅  |
+| **09** | **M3: Advanced** | Unit Testing (Jest & Mocking) | ✅  |
+| **10** | **M3: Advanced** | E2E Testing (Supertest & Test DB) | ✅  |
+| **11** | **M3: Advanced** | Caching (Redis) & Query Performance | ✅  |
+| **12** | **M3: Advanced** | Background Jobs (Bull + Redis Queues) | ✅  |
 | **13** | **M4: Microservices** | Gateway Pattern & RabbitMQ Transport | ⚪ |
 | **14** | **M4: Microservices** | RabbitMQ Patterns (DLQ & Retries) | ⚪ |
 | **15** | **M4: Microservices** | Shared Libraries & Partial Failures | ⚪ |
