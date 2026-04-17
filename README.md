@@ -11,7 +11,7 @@
         I thrive on solving challenges through thoughtful problem-solving and logical thinking. Whether it’s building responsive front-end interfaces or designing efficient back-end systems, I enjoy every part of the development process.
       </p>
       <p>
-        Currently, I’m specializing in the <strong>MERN stack</strong> (MongoDB, Express.js, React, Node.js) while exploring modern tools like <strong>Nest.js,Next.js</strong> and <strong>TypeScript</strong> to enhance performance and user experience.
+        Currently, I specialize in full-stack development using Node.js,expressjs,nestjs, React,Next.js, and javascript, TypeScript, building scalable and high-performance applications.
       </p>
     </td>
     <td width="40%" valign="top" align="right" style="border: none;">
