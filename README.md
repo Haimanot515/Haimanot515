@@ -25,7 +25,7 @@
   </tr>
 </table>
 
-# Addis Ababa University – Software Engineering Journey
+#Software Engineering Journey
 
 I began my software engineering journey at **Addis Ababa University**, where I built a strong foundation in programming, software development, and web technologies. Now, I am  working on multiple projects that enhance my skills in HTML, CSS, JavaScript, React,TypeScript, Node.js,express.js,Nest.js and database management. These experiences allowed me to apply theoretical knowledge to real-world applications, creating functional, interactive, and visually appealing solutions. This portfolio highlights my growth as a software engineer and showcases the projects that reflect my dedication, creativity, and problem-solving abilities.
 
