@@ -29,12 +29,7 @@
 
 I began my software engineering journey at **Addis Ababa University**, where I built a strong foundation in programming, software development, and web technologies. Now, I am  working on multiple projects that enhance my skills in HTML, CSS, JavaScript, React,TypeScript, Node.js,express.js,Nest.js and database management. These experiences allowed me to apply theoretical knowledge to real-world applications, creating functional, interactive, and visually appealing solutions. This portfolio highlights my growth as a software engineer and showcases the projects that reflect my dedication, creativity, and problem-solving abilities.
 
-##
-<a href="https://youtu.be/EWTrBBjJk64?si=n6dG6J62Z6PjPwoo" target="_blank">
-  <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1773873585/ghva3qfdrlds14b6idne_btmyiy.png" 
-       alt="Watch the Demo" 
-       style="width: 100%; height: 450px;" />
-</a>
+
 
 <br/> <br/>
 
