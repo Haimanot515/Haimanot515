@@ -210,10 +210,10 @@ I am currently participating in a **backend-focused internship at Pitronn Tech S
 | **10** | **M3: Advanced** | E2E Testing (Supertest & Test DB) | ✅  |
 | **11** | **M3: Advanced** | Caching (Redis) & Query Performance | ✅  |
 | **12** | **M3: Advanced** | Background Jobs (Bull + Redis Queues) | ✅  |
-| **13** | **M4: Microservices** | Gateway Pattern & RabbitMQ Transport | ⚪ |
-| **14** | **M4: Microservices** | RabbitMQ Patterns (DLQ & Retries) | ⚪ |
-| **15** | **M4: Microservices** | Shared Libraries & Partial Failures | ⚪ |
-| **16** | **M5: Final Delivery** | Docker, Swagger & Cloud Deployment | ⚪ |
+| **13** | **M4: Microservices** | Gateway Pattern & RabbitMQ Transport | ✅ |
+| **14** | **M4: Microservices** | RabbitMQ Patterns (DLQ & Retries) | ✅ |
+| **15** | **M4: Microservices** | Shared Libraries & Partial Failures | ✅ |
+| **16** | **M5: Final Delivery** | Docker, Swagger & Cloud Deployment | ✅ |
 
 ---
 
