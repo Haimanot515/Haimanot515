@@ -1,5 +1,5 @@
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table  border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="60%" valign="top" style="border: none; padding-right: 18px;">
       <h1 style="border-bottom: none; margin-top: 0;">Hello! I am Haimanot Beka</h1>
